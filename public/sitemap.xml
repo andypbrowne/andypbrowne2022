@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/posts/instastrategy/</loc>
+    <lastmod>2017-08-07T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/moments/</loc>
+    <lastmod>2016-08-12T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/data2go/</loc>
+    <lastmod>2016-05-20T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/ssmac/</loc>
+    <lastmod>2015-08-16T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/observing-the-cenntenial/</loc>
+    <lastmod>2015-02-11T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/veteransdayisnotmemorialday/</loc>
+    <lastmod>2014-11-11T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/surrealistdrawingtechniques/</loc>
+    <lastmod>2014-04-06T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/fontana/</loc>
+    <lastmod>2009-12-17T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2017-08-07T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/caughtmapping/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/cosmos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/descriptions/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/fan-art/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/fugitiveground/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2017-08-07T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/instagramallation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/lp-backpack/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/personal-branding/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/rominagarber/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/</loc>
+  </url>
+  
+</urlset>

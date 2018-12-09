@@ -1,0 +1,48 @@
+baseurl = "http://localhost:1313/"
+title = "andypbrowne"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Andrew Garber-Browne"
+    description = "Portfolio Site"
+    keywords = "blog,developer,personal"
+    info = "Design code and content"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+    custom_css = []
+
+    # RTL support
+    rtl = false
+    
+[taxonomies]
+  description = "descriptions"
+  tag = "tags"
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Work"
+    weight = 2
+    url  = "/"
+[[menu.main]]
+    name = "Words"
+    weight = 3
+    url  = "/posts/"
+

@@ -1,0 +1,9 @@
+<footer class="footer">
+  <section class="container">
+  {{ partial "social-links.html" . }}
+   <span>&copy; {{ if eq now.Year 2011 }}2011{{ else }}2011-{{ now.Year }}{{ end }} {{ .Site.Title }}</span> |  
+   andypbrowne.com
+  </section>
+</footer>
+
+

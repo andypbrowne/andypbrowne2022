@@ -1,0 +1,15 @@
+<script src="https://npmcdn.com/isotope-layout@3.0/dist/isotope.pkgd.min.js"></script>
+<script>
+// init Isotope
+var $grid = $('.isotope-grid').isotope({
+  // options
+  filter: '.one'
+});
+// filter items on button click
+$('.filter-button-group').on( 'click', 'button', function() {
+  var filterValue = $(this).attr('data-filter');
+  $grid.isotope({ filter: filterValue });
+});
+
+
+</script>
