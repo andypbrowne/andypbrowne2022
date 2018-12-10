@@ -2385,6 +2385,16 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/public\/posts\/images\/SSAM-02.jpg": {
+		"ft": 16384,
+		"iS": 152075,
+		"oA": 0,
+		"oAP": "\/public\/posts\/images\/SSAM-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/posts\/images\/SSMA_thumb.jpg": {
 		"ft": 16384,
 		"iS": 98346,
@@ -4213,30 +4223,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/themes\/hugo-coder\/.editorconfig",
-		"oF": 0
-		},
-	"\/themes\/hugo-coder\/.github\/pull_request_template.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/themes\/hugo-coder\/.github\/pull_request_template.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/themes\/hugo-coder\/.gitignore": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/themes\/hugo-coder\/.gitignore",
 		"oF": 0
 		},
 	"\/themes\/hugo-coder\/.hugo\/version": {
