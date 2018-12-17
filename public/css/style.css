@@ -378,6 +378,9 @@ a.navigation-title {
   justify-content: space-between;
   padding: 0px; }
 
+.post-list-grid ul {
+  list-style: none; }
+
 .post-list-grid li {
   /* Demo-Specific Styles */
   margin-bottom: 2em;

@@ -19,7 +19,7 @@ date = "2017-08-07T12:42:00-00:00"
  </p>
  <p>
  <strong>Examples</strong>:<br> 
- <div class="button-group filter-button-group">
+<!--  <div class="button-group filter-button-group">
    <button data-filter=".one">① In-process</button>
    <button data-filter=".two">② Behind The Scenes</button>
    <button data-filter=".three">③ Inspirational Photography</button>
@@ -27,7 +27,7 @@ date = "2017-08-07T12:42:00-00:00"
    <button data-filter=".five">⑤ Intimate Sharing</button>
    <button data-filter=".six">⑥ Wildcard</button>
    <button data-filter="*">show all</button>
- </div>
+ </div>-->
   
  <div class="isotope-grid">
      <div class="element-item one two four">
@@ -126,5 +126,5 @@ date = "2017-08-07T12:42:00-00:00"
 <p>
     The most important step in this process may be to absorb all of this strategy and then ignore it. The most essential part of a good Instagram post is its qualities of experimentation, nostalgia, rawness and playfulness.
 </p>
- {{ partial "isotope-gallery" . }} 
+
 

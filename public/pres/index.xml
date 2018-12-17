@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presos on andypbrowne</title>
+    <link>https://andypbrowne.com/pres/</link>
+    <description>Recent content in Presos on andypbrowne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://andypbrowne.com/pres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://andypbrowne.com/pres/designclasses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andypbrowne.com/pres/designclasses/</guid>
+      <description>Design Classes  var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = window.location.search.match( /print-pdf/gi ) ? &#39;css/print/pdf.css&#39; : &#39;css/print/paper.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link );          AGENDA 1. CLASSES:  Introduction to Interaction Design Visualizing Information  2. DISCUSSION: Professional Development    CLASSES   INTRODUCTION TO INTERACTION DESIGN   User Researcher Usability Analyst Information Architect    Interaction Designer Visual Designer UX Designer (all of the above)    Here is a link to Introductory Slides from Irene Pereyra   VISUALIZING INFORMATION    Documentary Exploratory Narrative Artistic    These types of visualizations are captured in many examples in Hilla Katki&#39;s Introductory Slides   For Your Reference Link to this presentation: andypbrowne.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://andypbrowne.com/pres/howwespeak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andypbrowne.com/pres/howwespeak/</guid>
+      <description>How We Speak  var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = window.location.search.match( /print-pdf/gi ) ? &#39;css/print/pdf.css&#39; : &#39;css/print/paper.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link );       How We Speak Part 1: The Significance of Amplitude Typeface How We Speak, Speaker Notes. Prepared by Andrew Browne, May 2012.  Typography is the style and appearance of printed matter. A typeface is a family of fonts (like Helvetica or Futura), and a font is a particular weight of a typeface (like light, regular, medium, condensed or bold).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://andypbrowne.com/pres/mindthegap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andypbrowne.com/pres/mindthegap/</guid>
+      <description>Mind the Gap  var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = window.location.search.match( /print-pdf/gi ) ? &#39;css/print/pdf.css&#39; : &#39;css/print/paper.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link );        Mind the Gap Mind what gap?
+The gap is the learning curve between graphic and web design. This lecture and workshop seeks to provide some tools, exercises, and approaches to mind the gap.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://andypbrowne.com/pres/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andypbrowne.com/pres/services/</guid>
+      <description>____ de$ign services  var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = window.location.search.match( /print-pdf/gi ) ? &#39;css/print/pdf.css&#39; : &#39;css/print/paper.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link );         
+     HELLO DE$IGN SERVICES    __________ CORPORATE NON-PROFIT INDIVIDUAL AGENCY  DE$IGN1 SERVICES ①
+Comprehensive
+Branding  ②
+Comprehensive
+Website  ③
+Logo design</description>
+    </item>
+    
+  </channel>
+</rss>

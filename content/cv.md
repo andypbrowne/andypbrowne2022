@@ -25,12 +25,12 @@ Beach Street Gallery, NY, NY
 
 2016 | Creativity in Corporate De$ign 
 
-2015 | <a href="http://andypbrowne.com/pres/mindthegap.html#/" target="_blank">Mind The Gap - The Learning Curve Between Graphic and Web Design</a>
+2015 | <a href="/pres/mindthegap/" target="_blank">Mind The Gap - The Learning Curve Between Graphic and Web Design</a>
         
 
-2014 | <a href="http://andypbrowne.com/blog/surrealistdrawingtechniques.html" target="_blank">Surrealist Drawing Techniques</a>
+2014 | <a href="/posts/surrealistdrawingtechniques/" target="_blank">Surrealist Drawing Techniques</a>
 
-2012 | <a href="http://andypbrowne.com/pres/howwespeak.html#/" target="_blank">How We Speak - The Significance of Amplitude Typeface</a>
+2012 | <a href="/pres/howwespeak/" target="_blank">How We Speak - The Significance of Amplitude Typeface</a>
 
     
 ### Education

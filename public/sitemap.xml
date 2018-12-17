@@ -3,107 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/posts/instastrategy/</loc>
+    <loc>https://andypbrowne.com/posts/instastrategy/</loc>
     <lastmod>2017-08-07T12:42:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/moments/</loc>
+    <loc>https://andypbrowne.com/posts/moments/</loc>
     <lastmod>2016-08-12T12:42:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/data2go/</loc>
+    <loc>https://andypbrowne.com/posts/data2go/</loc>
     <lastmod>2016-05-20T12:42:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/ssmac/</loc>
+    <loc>https://andypbrowne.com/posts/ssmac/</loc>
     <lastmod>2015-08-16T12:42:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/observing-the-cenntenial/</loc>
+    <loc>https://andypbrowne.com/posts/observing-the-cenntenial/</loc>
     <lastmod>2015-02-11T12:42:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/veteransdayisnotmemorialday/</loc>
+    <loc>https://andypbrowne.com/posts/veteransdayisnotmemorialday/</loc>
     <lastmod>2014-11-11T12:42:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/surrealistdrawingtechniques/</loc>
+    <loc>https://andypbrowne.com/posts/surrealistdrawingtechniques/</loc>
     <lastmod>2014-04-06T12:42:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/fontana/</loc>
+    <loc>https://andypbrowne.com/posts/fontana/</loc>
     <lastmod>2009-12-17T12:42:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://andypbrowne.com/pres/designclasses/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2017-08-07T12:42:00+00:00</lastmod>
+    <loc>https://andypbrowne.com/pres/howwespeak/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>https://andypbrowne.com/pres/mindthegap/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/caughtmapping/</loc>
+    <loc>https://andypbrowne.com/pres/services/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/cosmos/</loc>
+    <loc>https://andypbrowne.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/descriptions/</loc>
+    <loc>https://andypbrowne.com/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andypbrowne.com/work/caughtmapping/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andypbrowne.com/work/cosmos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andypbrowne.com/descriptions/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/fan-art/</loc>
+    <loc>https://andypbrowne.com/work/fan-art/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/fugitiveground/</loc>
+    <loc>https://andypbrowne.com/work/fugitiveground/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://andypbrowne.com/</loc>
     <lastmod>2017-08-07T12:42:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/instagramallation/</loc>
+    <loc>https://andypbrowne.com/work/instagramallation/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/lp-backpack/</loc>
+    <loc>https://andypbrowne.com/work/lp-backpack/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/personal-branding/</loc>
+    <loc>https://andypbrowne.com/work/personal-branding/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/rominagarber/</loc>
+    <loc>https://andypbrowne.com/pres/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://andypbrowne.com/work/rominagarber/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andypbrowne.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/work/</loc>
+    <loc>https://andypbrowne.com/posts/</loc>
+    <lastmod>2017-08-07T12:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andypbrowne.com/work/</loc>
   </url>
   
 </urlset>

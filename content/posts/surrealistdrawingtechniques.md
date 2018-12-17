@@ -5,7 +5,7 @@ title = "Surrealist Drawing Techniques"
 date = "2014-04-06T12:42:00-00:00"
 +++
 
-## Read-ahead for a series of seminars taught to design students. A collection of drawing techniques was explored to exercise the mind and the role of the subconcious in art and design 
+## A collection of drawing methods to exercise the mind and the role of the subconcious in art and design 
 
 {{< figure src="img/blog/frottage-golden-gate.jpg" caption="Example frottage work from the Golden Gate Bridge" >}}
     

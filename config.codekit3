@@ -69,6 +69,36 @@
 		"oAP": "\/public\/about\/index.html",
 		"oF": 0
 		},
+	"\/public\/css\/print\/paper.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/print\/paper-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/print\/pdf.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/print\/pdf-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/reveal.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/reveal-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/public\/css\/style-rtl.min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -98,6 +128,436 @@
 		"oAP": "\/public\/css\/style.min-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/public\/css\/theme\/apb-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/apb-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/apb.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/apb-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/beige.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/beige-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/black.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/black-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/blood.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/blood-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/hws-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/hws-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/hws.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/hws-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/league.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/league-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/moon.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/moon-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/night.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/night-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/public\/css\/theme\/serif.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/serif-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/simple.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/simple-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/sky.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/sky-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/solarized.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/solarized-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/theme\/source\/beige.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/beige.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/source\/black.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/black.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/source\/blood.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/blood.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/source\/league.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/league.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/source\/moon.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/moon.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/source\/night.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/night.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/source\/serif.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/serif.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/source\/simple.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/simple.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/source\/sky.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/sky.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/source\/solarized.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/solarized.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/source\/white.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/source\/white.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/template\/mixins.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/css\/theme\/template\/mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/template\/settings.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/css\/theme\/template\/settings.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/template\/theme.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/css\/theme\/template\/theme.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/css\/theme\/white.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/theme\/white-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/css\/webfonts\/Amplitude-Light\/demo.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Light\/demo.htm",
+		"oF": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-1.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-1.ttf",
+		"oF": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-2.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-2.eot",
+		"oF": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-3.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-3.woff",
+		"oF": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-4.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Light\/license.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Light\/license.txt",
+		"oF": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-1.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-1.ttf",
+		"oF": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-2.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-2.eot",
+		"oF": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-3.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-3.woff",
+		"oF": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-4.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Regular\/demo.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Regular\/demo.htm",
+		"oF": 0
+		},
+	"\/public\/css\/webfonts\/Amplitude-Regular\/license.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/webfonts\/Amplitude-Regular\/license.txt",
+		"oF": 0
 		},
 	"\/public\/cv\/index.html": {
 		"ft": 8192,
@@ -1793,11 +2253,38 @@
 		"oAP": "\/public\/index.xml",
 		"oF": 0
 		},
+	"\/public\/js\/classList.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/js\/classList-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/public\/js\/head.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/js\/head.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/public\/js\/isotope.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/js\/isotope-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/public\/js\/reveal.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/js\/reveal-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2549,6 +3036,310 @@
 		"oAP": "\/public\/posts\/veteransdayisnotmemorialday\/index.html",
 		"oF": 0
 		},
+	"\/public\/pres\/designclasses\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/pres\/designclasses\/index.html",
+		"oF": 0
+		},
+	"\/public\/pres\/howwespeak\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/pres\/howwespeak\/index.html",
+		"oF": 0
+		},
+	"\/public\/pres\/images\/amplitude.jpg": {
+		"ft": 16384,
+		"iS": 268021,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/amplitude.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/Amplitude_jpmorgan.jpg": {
+		"ft": 16384,
+		"iS": 112131,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/Amplitude_jpmorgan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/bell-centennial.jpg": {
+		"ft": 16384,
+		"iS": 139428,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/bell-centennial.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/cheddargorge.jpg": {
+		"ft": 16384,
+		"iS": 308400,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/cheddargorge.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/Christian-wchwartz.jpg": {
+		"ft": 16384,
+		"iS": 17126,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/Christian-wchwartz.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/cornerstone-freedom-tower-lifted-2004.jpg": {
+		"ft": 16384,
+		"iS": 153265,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/cornerstone-freedom-tower-lifted-2004.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/cornerstone10.jpg": {
+		"ft": 16384,
+		"iS": 166503,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/cornerstone10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/desertlandscape.jpg": {
+		"ft": 16384,
+		"iS": 242564,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/desertlandscape.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 43,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 43,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/pres\/images\/favicon.ico",
+		"oF": 0
+		},
+	"\/public\/pres\/images\/fundamentals.jpg": {
+		"ft": 16384,
+		"iS": 40976,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/fundamentals.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/hoefler-and-frere-jones.jpg": {
+		"ft": 16384,
+		"iS": 31107,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/hoefler-and-frere-jones.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/MatthewCarter.jpg": {
+		"ft": 16384,
+		"iS": 43449,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/MatthewCarter.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/monogram_apb_bw.png": {
+		"ft": 32768,
+		"iS": 16093,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/monogram_apb_bw.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/mount-mulanje.JPG": {
+		"ft": 16384,
+		"iS": 181044,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/mount-mulanje.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/new-jack-city.jpg": {
+		"ft": 16384,
+		"iS": 140275,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/new-jack-city.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/portfolio.JPG": {
+		"ft": 16384,
+		"iS": 192644,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/portfolio.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/retina.jpg": {
+		"ft": 16384,
+		"iS": 231828,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/retina.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/sva-studio.jpg": {
+		"ft": 16384,
+		"iS": 131366,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/sva-studio.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/ted-stage.jpg": {
+		"ft": 16384,
+		"iS": 136330,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/ted-stage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/thumb-designservices.png": {
+		"ft": 32768,
+		"iS": 6696,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/thumb-designservices.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/thumb-howwespeak.png": {
+		"ft": 32768,
+		"iS": 18392,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/thumb-howwespeak.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/thumb-mindthegap.png": {
+		"ft": 32768,
+		"iS": 555646,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/thumb-mindthegap.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/twelve-apostles.jpg": {
+		"ft": 16384,
+		"iS": 336692,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/twelve-apostles.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/images\/zion-angles-landing-2048x1157.jpg": {
+		"ft": 16384,
+		"iS": 925797,
+		"oA": 0,
+		"oAP": "\/public\/pres\/images\/zion-angles-landing-2048x1157.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/pres\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/pres\/index.html",
+		"oF": 0
+		},
+	"\/public\/pres\/index.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/pres\/index.xml",
+		"oF": 0
+		},
+	"\/public\/pres\/mindthegap\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/pres\/mindthegap\/index.html",
+		"oF": 0
+		},
+	"\/public\/pres\/page\/1\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/pres\/page\/1\/index.html",
+		"oF": 0
+		},
+	"\/public\/pres\/services\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/pres\/services\/index.html",
+		"oF": 0
+		},
 	"\/public\/scss\/colors.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -2558,6 +3349,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/public\/scss\/colors.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/public\/scss\/reveal.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/scss\/reveal.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2664,6 +3468,24 @@
 		"oA": 2,
 		"oAP": "\/public\/work\/rominagarber\/index.html",
 		"oF": 0
+		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/resources\/_gen\/assets\/scss\/scss\/coder.scss_5e1eb8e37c42cdfb6215b61e44dcfa5f.content": {
 		"ft": 8192,
@@ -4210,11 +5032,38 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/static\/js\/classList.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/static\/js\/classList-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/static\/js\/head.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/static\/js\/head.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/static\/js\/isotope.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/static\/js\/isotope-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/static\/js\/reveal.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/static\/js\/reveal-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4975,6 +5824,36 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/themes\/hugo-coder\/static\/css\/print\/paper.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/print\/paper-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/print\/pdf.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/print\/pdf-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/reveal.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/reveal-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/themes\/hugo-coder\/static\/css\/style-rtl.min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -5004,6 +5883,436 @@
 		"oAP": "\/themes\/hugo-coder\/static\/css\/style.min-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/apb-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/apb-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/apb.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/apb-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/beige.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/beige-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/black.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/black-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/blood.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/blood-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/hws-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/hws-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/hws.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/hws-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/league.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/league-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/moon.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/moon-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/night.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/night-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/serif.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/serif-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/simple.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/simple-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/sky.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/sky-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/solarized.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/solarized-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/beige.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/beige.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/black.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/black.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/blood.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/blood.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/league.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/league.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/moon.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/moon.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/night.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/night.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/serif.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/serif.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/simple.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/simple.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/sky.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/sky.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/solarized.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/solarized.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/source\/white.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/source\/white.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/template\/mixins.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/template\/mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/template\/settings.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/template\/settings.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/template\/theme.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/template\/theme.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/css\/theme\/white.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/theme\/white-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/demo.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/demo.htm",
+		"oF": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-1.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-1.ttf",
+		"oF": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-2.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-2.eot",
+		"oF": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-3.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-3.woff",
+		"oF": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/ee553ccf-2d0c-4e23-9d9d-1067a902018a-4.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/license.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Light\/license.txt",
+		"oF": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-1.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-1.ttf",
+		"oF": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-2.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-2.eot",
+		"oF": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-3.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-3.woff",
+		"oF": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/8b10efc3-e37f-468c-9326-3f261bc2b6e9-4.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/demo.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/demo.htm",
+		"oF": 0
+		},
+	"\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/license.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/themes\/hugo-coder\/static\/css\/webfonts\/Amplitude-Regular\/license.txt",
+		"oF": 0
 		},
 	"\/themes\/hugo-coder\/static\/images\/avatar-apb.png": {
 		"ft": 32768,
@@ -5184,6 +6493,19 @@
 		"oA": 1,
 		"oAP": "\/themes\/hugo-coder\/static\/scss\/colors.css",
 		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/themes\/hugo-coder\/static\/scss\/reveal.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/themes\/hugo-coder\/static\/scss\/reveal.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},

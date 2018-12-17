@@ -1,6 +1,6 @@
 +++
 type = ""
-title = "Blog"
+title = "Words"
 description = "Andrew Garber-Browne a ..."
 meta = "false" #Do not display tags or categories
 +++
