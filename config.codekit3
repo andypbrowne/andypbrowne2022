@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25849",
 "files": {
+	"\/.gitmodules": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitmodules",
+		"oF": 0
+		},
 	"\/archetypes\/default.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -3201,7 +3207,7 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/pres\/images\/mount-mulanje.JPG": {
+	"\/public\/pres\/images\/mount-mulanje.jpg": {
 		"ft": 16384,
 		"iS": 181044,
 		"oA": 0,
