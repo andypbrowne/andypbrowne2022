@@ -2768,6 +2768,16 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/public\/posts\/images\/Photo Jul 24, 12 43 58 PM.jpg": {
+		"ft": 16384,
+		"iS": 3209058,
+		"oA": 0,
+		"oAP": "\/public\/posts\/images\/Photo Jul 24, 12 43 58 PM.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/posts\/images\/Poppies_Field_in_Flanders.jpg": {
 		"ft": 16384,
 		"iS": 723320,
@@ -3163,7 +3173,7 @@
 		"oAP": "\/public\/pres\/images\/fundamentals.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/public\/pres\/images\/hoefler-and-frere-jones.jpg": {
