@@ -10,7 +10,7 @@ date = "Versatile Blog Site for a YA Author"
 <img src="img/work/rg-logo-virgo.png" alt="virgo logo" class="intro-icon">
 
 <p>
-        Romina Garber, YA author, required a versatile blog. The purpose was mainly to support the launch of here first novel, ZODIAC. The site also features social media integration for essential components like twitter, tumblr, facebook and instagram.     
+        <span class="dropcap">R</span>omina Garber, YA author, required a versatile blog. The purpose was mainly to support the launch of here first novel, ZODIAC. The site also features social media integration for essential components like twitter, tumblr, facebook and instagram.     
     </p>
     <p>
         Ideally this website's platform (WordPress) and framework (Zurb Foundation) are not apparent to the user. The visitor experiences a clean and content-first layout that is responsive and integrated.

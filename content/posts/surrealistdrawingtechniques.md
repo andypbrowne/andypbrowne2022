@@ -11,7 +11,7 @@ date = "2014-04-06T12:42:00-00:00"
     
 #### Frottage
 
-Frottage from the French frotter, “to rub,” is a surrealist technique developed by Max Ernst. In Frottage the artist takes a pencil or other drawing tool and makes a rubbing over a textured surface. The resulting drawing can be used as-is, or used as a base for further refinement.
+<span class="dropcap">F</span>rottage from the French frotter, “to rub,” is a surrealist technique developed by Max Ernst. In Frottage the artist takes a pencil or other drawing tool and makes a rubbing over a textured surface. The resulting drawing can be used as-is, or used as a base for further refinement.
 
 A note on surrealism: Artistic, Poetic, and Literary surrealist techniques are characterized by numerous methods and games. These are free of conscious control and utilize the unconscious as a source of inspiration.
 

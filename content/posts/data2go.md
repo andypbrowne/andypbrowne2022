@@ -10,7 +10,7 @@ date = "2016-05-20T12:42:00-00:00"
 {{< figure src="img/blog/data2go-lunchtalk.jpg" caption="Data2go lunch talk notes and poster" >}}
 
 
-On Friday, 20 May 2016, Hyperact [hyperakt.com/lunch-talks/](http://hyperakt.com/lunch-talks/) hosted a lunch talk with speaker Kristen Lewis. Kristen is the Co-director of Measure of America &mdash; an organization that provides easy-to-use yet methodologically sound tools for understanding the distribution of well-being and opportunity in America and stimulating fact-based dialogue about issues we all care about: health, education, and living standards [measureofamerica.org/project/](http://www.measureofamerica.org/project/). This specific event covered a recently launched product called data2go.nyc.
+<span class="dropcap">O</span>n Friday, 20 May 2016, Hyperact [hyperakt.com/lunch-talks/](http://hyperakt.com/lunch-talks/) hosted a lunch talk with speaker Kristen Lewis. Kristen is the Co-director of Measure of America &mdash; an organization that provides easy-to-use yet methodologically sound tools for understanding the distribution of well-being and opportunity in America and stimulating fact-based dialogue about issues we all care about: health, education, and living standards [measureofamerica.org/project/](http://www.measureofamerica.org/project/). This specific event covered a recently launched product called data2go.nyc.
 
 Data2go.nyc is a web based interface that solves for the data needs of non-profits, philanthropists, grant writers, small agencies and other types of organizations who may not have the expertise or resources to conduct data science.
 

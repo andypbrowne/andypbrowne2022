@@ -9,7 +9,7 @@ date = ""
 <img class="intro-icon" src="img/work/lp-backpack-illustration-black.png" alt="Illustration of the backpack used to represent concepts in this fictional product">
 </figure>
 
-A robust student project, LP Backpack was created for a continuing education course at the School of the Visual Arts Interaction design program. 
+<span class="dropcap">A</span> robust student project, LP Backpack was created for a continuing education course at the School of the Visual Arts Interaction design program. 
 
 A series of design artifacts proposes a digital product for the fictional client Lonely Planet. Specifically this project included: 15+ user interviews, 3 generated personas, ecosystem and competitive analysis, card sorting exercises, MVP analysis, site map, features &amp; functionality matrix, user flows and detailed annotated wireframes. The five week process concluded with a client presentation where this proposal was chosen as one of the top three out of twelve presentations.
 

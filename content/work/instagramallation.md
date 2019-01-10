@@ -19,7 +19,7 @@ date = ""
 </figure>
 
 <p>
-A collaborative project with Charles Wray originally designed as a fun experiment for a birthday parity in December 2012. It is important to note that this project is not a website &mdash; the web is used in this case as environmental design.     
+<span class="dropcap">A</span> collaborative project with Charles Wray originally designed as a fun experiment for a birthday parity in December 2012. It is important to note that this project is not a website &mdash; the web is used in this case as environmental design.     
 </p>
 <p>
 The project leverages unique instagram hashtags, IFTTT, google documents and a custom website. It’s success has resulted in repeated use by friends and collegues. The  is easy to repurpose because of its flexible design. Participants of an event need only add a unique hashtag to their instagram photos and their contribution will appear in the projected collage.

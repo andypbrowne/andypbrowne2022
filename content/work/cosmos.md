@@ -12,7 +12,7 @@ date = ""
 <figcaption>A closeup of source material found in the image library at the New York Public Library</figcaption>  
 </figure>
 
-Cosmos is a student project from 2011. It is a 4-page editorial spread that appropriated the transcription of my favorite episode of Cosmos. The “Backbone of Night” is about the mystery and the compelling nature of the universe.  
+<span class="dropcap">C</span>osmos is a student project from 2011. It is a 4-page editorial spread that appropriated the transcription of my favorite episode of Cosmos. The “Backbone of Night” is about the mystery and the compelling nature of the universe.  
 
 The theme of space was first created by a typography exercise called illustrated word. I also like to think of it as words at play. Matteo Bologna would call it type masturbation.
 

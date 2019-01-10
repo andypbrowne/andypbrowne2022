@@ -51,3 +51,13 @@ Generally I do a lot of hand work that sits beside digital and web design work i
      alt="fugitive ground sketchbook">
      <figcaption>Call for entries, car-to-go</figcaption>
 </figure>
+<figure>
+<img
+  src="img/work/fa-jellys-and-buhos.jpg"
+  srcset="img/work/fa-jellys-and-buhos.jpg 1280w,
+          img/work/fa-jellys-and-buhos.jpg 640w,
+          img/work/fa-jellys-and-buhos.jpg 320w"
+     sizes="100%"  
+     alt="jellys and buhos illustration">
+     <figcaption>Collaborative exquisite corpse drawing</figcaption>
+</figure>

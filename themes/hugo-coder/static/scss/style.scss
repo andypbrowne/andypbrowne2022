@@ -10,7 +10,7 @@ $fg-color: #323232;
 $light-gray: #606060;
 $darker-bg-color: #dcdcdc;
 $darker-fg-color: #222222;
-$link-color: #3366CC;
+$link-color: #3366CC; 
 
 *,
 *:after,
@@ -65,7 +65,24 @@ p {
     }
   }
 }
-
+span.dropcap {
+  display: block;
+  position: relative;
+  float: left;
+  --x-height-multiplier: 0.342;
+  --baseline-multiplier: 0.22;
+  letter-spacing: -.02em;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: 0;
+  font-size: 53px;
+  padding-top: 6px;
+  margin-left: -5px;
+  margin-right: 7px;
+  letter-spacing: -.03em;
+  line-height: .8;
+  margin-bottom: -.08em;
+}
 article figure {
   margin: 6rem 0px;
   padding: 0px;
@@ -149,8 +166,11 @@ h2.serif-hero > .smaller {
     text-align:left;
   }
 h2.date {
-  color: lighten($fg-color, 60%);
+  color: lighten($fg-color, 40%);
   text-align: left;
+}
+p.date {
+  color: lighten($fg-color, 40%);
 }
 h3 {
   font-size: 1.8rem;
@@ -203,15 +223,15 @@ code {
 }
 
 blockquote {
-  //  border-left: 2px solid $darker-bg-color;
+//  border-left: 2px solid $darker-bg-color;
   border-left: none;
- // padding-left: 1.6rem;
+// padding-left: 1.6rem;
 //  font-family: "minion-pro-1", "minion-pro-2", serif;
-  font-style: italic;
+//  font-style: italic;
   hanging-punctuation: first;
 //  font-size:120%;
 //  color: $fg-color;
-  margin: 0 20% 2em;
+  margin: 0 5% 2em;  
 }
 blockquote.serif {
   font-family: "minion-pro-1", "minion-pro-2", serif;

@@ -9,7 +9,7 @@ date = ""
 
 {{< figure src="img/work/cm-reader-w-typewriter.jpg" caption="The CM newsprint reader sitting in a coffee shop" >}} 
 
-A group of five long-time artist collaborators conceived of an exhibition called ++ Caught Mapping ++ at PS Project Space in the Chelsea Art District in New York City. The show took place over a period of 2 weeks in September 2012. The project continued a developing process called “The Living Gallery.” Much of the work, presented ++ Caught Mapping ++ was created in the gallery itself and crafted in full view of the public. Additionally gallery visitors and special guests were invited to participate in art making, research and urban mapping experiences.
+<span class="dropcap">A</span> group of five long-time artist collaborators conceived of an exhibition called ++ Caught Mapping ++ at PS Project Space in the Chelsea Art District in New York City. The show took place over a period of 2 weeks in September 2012. The project continued a developing process called “The Living Gallery.” Much of the work, presented ++ Caught Mapping ++ was created in the gallery itself and crafted in full view of the public. Additionally gallery visitors and special guests were invited to participate in art making, research and urban mapping experiences.
 
 {{< figure src="img/work/cm-scribe.jpg" caption="Jeff Kasper typing prompts for a participatory mapping excercise" >}} 
 

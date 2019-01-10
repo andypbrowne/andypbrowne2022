@@ -13,7 +13,7 @@ date = ""
         <img src="images/monogram_apb-black.png" alt="apb monogram" class="intro-icon">
 </figure>
 
-The goal of this project was to create a versatile and novel identity for use as a personal brand. This kind of project is supposed to represent all of our talent, wit and narcissism. Realistically though I knew this identity had to be more about process, experimentation and play&mdash;because thats who I am.  
+<span class="dropcap">T</span>he goal of this project was to create a versatile and novel identity for use as a personal brand. This kind of project is supposed to represent all of our talent, wit and narcissism. Realistically though I knew this identity had to be more about process, experimentation and play&mdash;because thats who I am.  
 
 With this type of experimental approach we are free to really explore. In my exploration I sketched endlessly, re-learned Adobe Illustrator, carved a stamp, visited a laser cutting machine at Parsons and learned everything about SVG for the web.
 

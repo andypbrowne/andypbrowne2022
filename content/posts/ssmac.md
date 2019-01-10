@@ -13,7 +13,7 @@ date = "2015-08-16T12:42:00-00:00"
 </figure>
  
 <p>
-        I have a strong connection between my transition out of the military and the The Soldiers&rsquo;, Sailors&rsquo;, Marines&rsquo;, Coast Guard and Airmen&rsquo;s Club (SSMAC) in New York City. Located on Lexington Avenue between 36th and 37th Streets, the SMAC wonderfully represents the strong connection NYC has to the uniformed services.
+<span class="dropcap">I</span> have a strong connection between my transition out of the military and the The Soldiers&rsquo;, Sailors&rsquo;, Marines&rsquo;, Coast Guard and Airmen&rsquo;s Club (SSMAC) in New York City. Located on Lexington Avenue between 36th and 37th Streets, the SMAC wonderfully represents the strong connection NYC has to the uniformed services.
    </p>
    <p>
        I first visited the SSMAC in 2005 during a 15-day rest and relaxation leave from Iraq. It was October which is the best time of year in NYC. The idea was to get some personal time before visiting my family in Pennsylvania.
