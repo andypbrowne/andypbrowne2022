@@ -82,10 +82,18 @@ span.dropcap {
   letter-spacing: -.03em;
   line-height: .8;
   margin-bottom: -.08em;
+  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    font-size:44px;
+    margin-right:4px;
+    padding-top:4px;
+  }
 }
 article figure {
   margin: 6rem 0px;
   padding: 0px;
+  @media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
+    margin: 3rem -2rem;
+  }
 }
 figure p, figure figcaption, p.caption {
   color:lighten($fg-color, 20%);
@@ -112,14 +120,14 @@ h6 {
 
 h1 {
   font-size: 3.2rem;
-  line-height: 3.2rem;
+  line-height: 3.6rem;
   font-family:	"acumin-pro-wide", sans-serif;
   font-weight: 700;
 //  color: lighten($fg-color, 60%);
   color: $fg-color;
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 2.8rem;
-    line-height: 2.8rem;
+    line-height: 3.2rem;
   }
 }
 h2 {
@@ -141,6 +149,7 @@ h2 {
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 2.8rem;
     line-height: 1.1;
+    margin: 0px auto;
   }
 } 
 h2.serif-hero {
@@ -159,6 +168,7 @@ h2.serif-hero {
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 3rem;
     line-height: 1.1;
+    margin: 30px auto;
   }
 }
 h2.serif-hero > .smaller {
@@ -170,7 +180,7 @@ h2.date {
   text-align: left;
 }
 p.date {
-  color: lighten($fg-color, 40%);
+  color: lighten($fg-color, 40%); 
 }
 h3 {
   font-size: 1.8rem;
@@ -185,12 +195,12 @@ h3 {
 }
 h4 {
   font-size: 2.4rem;
-  line-height: 2.4rem;
+  line-height: 2.8rem;
   font-family:	"acumin-pro-wide", sans-serif;
   font-weight: 700;
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 2.0rem;
-    line-height: 2.0rem;
+    line-height: 2.4rem;
   }
 }
 //h5 {
@@ -232,6 +242,12 @@ blockquote {
 //  font-size:120%;
 //  color: $fg-color;
   margin: 0 5% 2em;  
+}
+blockquote > h4 {
+  line-height:3.2rem;
+  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    line-height: 2.4rem;
+  }
 }
 blockquote.serif {
   font-family: "minion-pro-1", "minion-pro-2", serif;
@@ -455,7 +471,9 @@ a.navigation-title {
     float:none;
   }
 }
-
+.dark-bg {
+  margin:0 -2rem 2rem;
+}
 .dark-bg p{
   color:#ffffff;
   max-width:20em;

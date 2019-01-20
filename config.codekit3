@@ -3081,16 +3081,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/public\/posts\/images\/SSAM-02.jpg": {
-		"ft": 16384,
-		"iS": 152075,
-		"oA": 0,
-		"oAP": "\/public\/posts\/images\/SSAM-02.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/public\/posts\/images\/SSMA_thumb.jpg": {
 		"ft": 16384,
 		"iS": 98346,
@@ -3581,16 +3571,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/public\/scss\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/scss\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/public\/scss\/style.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -3626,6 +3606,18 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/tags\/page\/1\/index.html",
+		"oF": 0
+		},
+	"\/public\/video\/sheldon-teaches-penny-physics.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/video\/sheldon-teaches-penny-physics.mp4",
+		"oF": 0
+		},
+	"\/public\/video\/uxsampling.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/video\/uxsampling.mp4",
 		"oF": 0
 		},
 	"\/public\/work\/caughtmapping\/index.html": {
@@ -5461,6 +5453,18 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/static\/video\/sheldon-teaches-penny-physics.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/static\/video\/sheldon-teaches-penny-physics.mp4",
+		"oF": 0
+		},
+	"\/static\/video\/uxsampling.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/static\/video\/uxsampling.mp4",
+		"oF": 0
 		},
 	"\/themes\/hugo-coder\/.editorconfig": {
 		"ft": 8192,

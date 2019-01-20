@@ -15,7 +15,7 @@ date = "2018-12-23T12:42:00-00:00"
 
 > #### Through this process I got to see my colleagues and friends really open up about their motivations and goals.
 
-It was September 2018, and we had a 2-day onsite<sup>[1]</sup> on the calendar. My boss had purchased a book, LEGO*®* Seriousplay*®* (LSP), but didn't have time to read it. She asked if we could facilitate one of these sessions ourselves in under a week, and we agreed. I practiced with co-workers after hours and with a friend on the weekend. What I learned right away is that the process really opens up participants. They will tell intimate stories and offer personal feelings. One participant even remarked that they felt like they were on the therapy couch. 
+It was September 2018, and we had a 2-day onsite <sup>[1]</sup> on the calendar. My boss had purchased a book, LEGO*®* Seriousplay*®* (LSP), but didn't have time to read it. She asked if we could facilitate one of these sessions ourselves in under a week, and we agreed. I practiced with co-workers after hours and with a friend on the weekend. What I learned right away is that the process really opens up participants. They will tell intimate stories and offer personal feelings. One participant even remarked that they felt like they were on the therapy couch. 
 
 I quickly discovered that this kind of sharing could be a great way to connect with colleagues, but I decided to use sets of questions and challenges prescribed by the book that were less personal in the actual sessions. For example, we used "difficult/nightmare client" instead of "personal/professional goals," and "dream vacation" instead of "build myself." 
 
@@ -25,7 +25,7 @@ I quickly discovered that this kind of sharing could be a great way to connect w
 
 One stand-out element of LSP is the grid cards. We made special prints with full-bleed colored edges, which is nice but not necessary. Objectives were blue, Vision Statement and News Headlines were green, and for other categories we had black gridcards and Post-it® notes. These cards, particularly the blue objective cards and the exercise called "5 questions," set up the whole workshop and help folks determine what observations, reflections, and ideas best align with their goals and objectives. 
 
-These cards have proved so productive that we have started using them in all types of meetings, such as Lean UX problem statement workshops, persona validation exercises, and customer journey mapping, just to name a few. I would say that the 5 questions objective setting session gives professionalism and structure to the whole process, keeping those less-open-minded participants on track and engaged.
+These cards have proved so productive that we have started using them in all types of meetings, such as Lean UX <sup>[2]</sup> problem statement workshops, persona validation exercises, and customer journey mapping, just to name a few. I would say that the 5 questions objective setting session gives professionalism and structure to the whole process, keeping those less-open-minded participants on track and engaged.
 
 {{< figure src="img/blog/lsp02.jpg" caption="Pictured are examples of a “headline of your vision statement” build" >}}
 
@@ -55,10 +55,14 @@ The builds last between 30 seconds to 5 minutes and go really well when upbeat m
 
 [https://www.lego.com/hu-hu/seriousplay](https://www.lego.com/hu-hu/seriousplay) 
 
-[https://serious.global](https://serious.global) <sup>[2]</sup> 
+[https://serious.global](https://serious.global) <sup>[3]</sup> 
 
-<sup>1</sup> An onsite as apposed to an offsite is similar in that it is full days of strategy and team activities, but in this case it is just held in a corporate conference room. The advantage is that it is easy to coordinate. The dissadvantage is that participants are more likely to be distracted or take the session less seriously.
+### Footnotes:
 
-<sup>2</sup> The typeface choices in this book are terrible; an offense for which I would normally dismiss a book. But this time the content was so good I was willing to look past it.
+[1]: An onsite as apposed to an offsite is similar in that it is full days of strategy and team activities, but in this case it is just held in a corporate conference room. The advantage is that it is easy to coordinate. The dissadvantage is that participants are more likely to be distracted or take the session less seriously.
+
+[2]: [Lean UX Book, by Jeff Gothelf](https://www.jeffgothelf.com/books/#LIBROS-PAGE)
+ 
+[3]: The typeface choices in this book are terrible; an offense for which I would normally dismiss a book. But this time the content was so good I was willing to look past it. An easy solution for this offense would be to keep the distinctive tyeface for headings and choose a more legible example for body copy.
 
 

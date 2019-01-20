@@ -58,10 +58,18 @@ span.dropcap {
   letter-spacing: -.03em;
   line-height: .8;
   margin-bottom: -.08em; }
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    span.dropcap {
+      font-size: 44px;
+      margin-right: 4px;
+      padding-top: 4px; } }
 
 article figure {
   margin: 6rem 0px;
   padding: 0px; }
+  @media only screen and (min-device-width: 320px) and (max-device-width: 768px) {
+    article figure {
+      margin: 3rem -2rem; } }
 
 figure p, figure figcaption, p.caption {
   color: #656565;
@@ -85,14 +93,14 @@ h6 {
 
 h1 {
   font-size: 3.2rem;
-  line-height: 3.2rem;
+  line-height: 3.6rem;
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 700;
   color: #323232; }
   @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     h1 {
       font-size: 2.8rem;
-      line-height: 2.8rem; } }
+      line-height: 3.2rem; } }
 
 h2 {
   font-size: 2.8rem;
@@ -112,7 +120,8 @@ h2 {
   @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     h2 {
       font-size: 2.8rem;
-      line-height: 1.1; } }
+      line-height: 1.1;
+      margin: 0px auto; } }
 
 h2.serif-hero {
   font-family: "minion-pro-1", "minion-pro-2", serif;
@@ -130,7 +139,8 @@ h2.serif-hero {
   @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     h2.serif-hero {
       font-size: 3rem;
-      line-height: 1.1; } }
+      line-height: 1.1;
+      margin: 30px auto; } }
 
 h2.serif-hero > .smaller {
   font-size: 60%;
@@ -156,13 +166,13 @@ h3 {
 
 h4 {
   font-size: 2.4rem;
-  line-height: 2.4rem;
+  line-height: 2.8rem;
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 700; }
   @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     h4 {
       font-size: 2.0rem;
-      line-height: 2.0rem; } }
+      line-height: 2.4rem; } }
 
 b, strong {
   font-weight: bold; }
@@ -181,6 +191,12 @@ blockquote {
   border-left: none;
   hanging-punctuation: first;
   margin: 0 5% 2em; }
+
+blockquote > h4 {
+  line-height: 3.2rem; }
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    blockquote > h4 {
+      line-height: 2.4rem; } }
 
 blockquote.serif {
   font-family: "minion-pro-1", "minion-pro-2", serif; }
@@ -365,6 +381,9 @@ a.navigation-title {
       width: 100%;
       margin: 0;
       float: none; } }
+
+.dark-bg {
+  margin: 0 -2rem 2rem; }
 
 .dark-bg p {
   color: #ffffff;
