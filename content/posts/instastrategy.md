@@ -4,6 +4,7 @@ type = ""
 description = "6 types of instagram posts for artists and creative professionals to promote their work"
 title = "Insta Strategy"
 date = "2017-08-07T12:42:00-00:00" 
+js = " https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"
 +++
 
  <h2>Six types of instagram posts for artists and creative professionals to promote their work</h2> 
@@ -19,7 +20,7 @@ date = "2017-08-07T12:42:00-00:00"
  </p>
  <p>
  <strong>Examples</strong>:<br> 
-<!--  <div class="button-group filter-button-group">
+<!--<div class="button-group filter-button-group">
    <button data-filter=".one">① In-process</button>
    <button data-filter=".two">② Behind The Scenes</button>
    <button data-filter=".three">③ Inspirational Photography</button>
