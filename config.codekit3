@@ -2694,7 +2694,7 @@
 		"oAP": "\/public\/posts\/images\/arc_de_triomphe.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/public\/posts\/images\/arc_de_triomphe@0,25x.jpg": {
@@ -3212,8 +3212,8 @@
 		"oA": 0,
 		"oAP": "\/public\/posts\/images\/Schlieffen_Plan_fr.svg@0,5x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
