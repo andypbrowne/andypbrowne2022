@@ -161,19 +161,25 @@ h2.serif-hero {
   font-size:5rem;
   font-weight:400;
   line-height:1.2;
-  color: lighten($fg-color, 40%);
-  letter-spacing:0.03rem;
+  letter-spacing:0.02rem;
   max-width:80rem;
   align-self:center;
   margin: 60px auto;
   text-align:center;
   font-variant-numeric: oldstyle-nums;
+  color: lighten($fg-color, 40%); 
+  background: linear-gradient(130deg, rgba(131,255,13,1) 0%, rgba(27,0,255,1) 50%, rgba(117,0,237,1) 100%);
+    background-clip: text;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0,0,0,.15);
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 3rem;
     line-height: 1.1;
     margin: 30px auto;
   }
 }
+
 h2.serif-hero > .smaller {
     font-size:60%;
     text-align:left;
