@@ -45,10 +45,10 @@ a {
   font-weight: 400;
   color: $link-color;
   text-decoration: none;
-  border-bottom: 2px;
+//  border-bottom: 2px solid;
   &:focus,
   &:hover {
-    border-bottom: 3px;
+    
   }
 }
 
@@ -56,12 +56,14 @@ p {
   margin: 1.6rem 0 1.6rem 0;
   a {
     font-weight: 400;
-    color: $darker-fg-color;
-    text-decoration: underline;
+    color: $link-color;
+    text-decoration: none;
+    border-bottom: 2px solid;
     text-underline-position: under;
     &:focus,
     &:hover {
-      color: $link-color;
+      border-bottom: 3px solid;
+      color: darken( $link-color, 10% )
     }
   }
 }
@@ -167,20 +169,17 @@ h2.serif-hero {
   margin: 60px auto;
   text-align:center;
   font-variant-numeric: oldstyle-nums;
-  color: lighten($fg-color, 40%);
-  background-clip:          text;
-  -webkit-background-clip:  text;
-  -webkit-text-fill-color:  rgba(0,0,0,.15);
+  color: lighten($fg-color, 40%); 
+  background: linear-gradient(130deg, rgba(131,255,13,1) 0%, rgba(27,0,255,1) 50%, rgba(117,0,237,1) 100%);
+    background-clip: text;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0,0,0,.15);
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 3rem;
     line-height: 1.1;
     margin: 30px auto;
   }
-}
-@supports (background-clip: text) {
-  h2.serif-hero {
-    
-    }
 }
 
 h2.serif-hero > .smaller {
@@ -461,17 +460,27 @@ a.navigation-title {
     flex: 1 1 30em;
 }
 
-// lets try some grid
-//@supports (display: grid) {
-//  .apb-flex-boxes {
-//    display: grid;
-//    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-//    grid-auto-rows: minmax(150px, auto);
-//  }
-//  .tall-panel{
-//    grid-row-end: span 2;
-//  }
-//}
+.image-thumbnail-grid {
+    display:flex;
+    flex-flow:row wrap;
+    flex: 1 1 30em;
+}
+.image-thumbnail-grid > img {
+    flex: 1 0 33.3333%;
+    flex-basis: 200px;
+}
+@supports (display: grid) {
+    .image-thumbnail-grid > img {
+ 
+  }
+}
+
+/* Let's Define the Grid
+----------------------------------------------------------------------------------------------------*/
+.image-thumbnail-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
 
 .image-float-left {
   width: 60%;
