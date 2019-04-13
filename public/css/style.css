@@ -23,22 +23,26 @@ body {
 p.serif {
   font-family: "minion-pro-1", "minion-pro-2", serif; }
 
+p {
+  margin-bottom: 1.8rem; }
+
 a {
   font-weight: 400;
   color: #3366CC;
   text-decoration: none; }
 
-p {
-  margin: 1.6rem 0 1.6rem 0; }
-  p a {
-    font-weight: 400;
-    color: #3366CC;
-    text-decoration: none;
-    border-bottom: 2px solid;
-    text-underline-position: under; }
-    p a:focus, p a:hover {
-      border-bottom: 3px solid;
-      color: #2952a3; }
+ul li, ol li {
+  margin: 0.8rem 0 0 0; }
+
+p a, ul li a, ol li a {
+  font-weight: 400;
+  color: #3366CC;
+  text-decoration: none;
+  border-bottom: 2px solid;
+  text-underline-position: under; }
+  p a:focus, p a:hover, ul li a:focus, ul li a:hover, ol li a:focus, ol li a:hover {
+    border-bottom: 3px solid;
+    color: #2952a3; }
 
 span.dropcap {
   display: block;
@@ -138,8 +142,8 @@ h2.serif-hero {
   text-align: center;
   font-variant-numeric: oldstyle-nums;
   color: #989898;
-  background: linear-gradient(130deg, #83ff0d 0%, #1b00ff 50%, #7500ed 100%);
-  background-clip: text;
+  background: -webkit-gradient(linear, left top, right top, from(#3668cc), to(#7500ed));
+  background: linear-gradient(to right, #3668cc 50%, #7500ed 100%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(0, 0, 0, 0.15); }
@@ -161,8 +165,10 @@ p.date {
   color: #989898; }
 
 h3 {
-  font-size: 1.8rem;
-  line-height: 1.8rem;
+  font-size: 2.2rem;
+  line-height: 2.2rem;
+  font-family: "acumin-pro-wide", sans-serif;
+  margin-top: 5.0rem;
   text-transform: uppercase;
   letter-spacing: 0.25rem;
   color: #989898; }
@@ -382,7 +388,8 @@ a.navigation-title {
 .image-thumbnail-grid {
   display: flex;
   flex-flow: row wrap;
-  flex: 1 1 30em; }
+  flex: 1 1 30em;
+  margin-bottom: 60px; }
 
 .image-thumbnail-grid > img {
   flex: 1 0 33.3333%;
@@ -393,6 +400,10 @@ a.navigation-title {
 .image-thumbnail-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .image-thumbnail-grid {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); } }
 
 .image-float-left {
   width: 60%;

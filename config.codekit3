@@ -653,6 +653,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/public/images/avatar-apb.jpg": {
+		"ft": 16384,
+		"iS": 18094,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/public/images/avatar-apb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/public/images/avatar-apb.png": {
 		"ft": 32768,
 		"iS": 22491,
@@ -957,6 +968,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/public/images/thumb-podcasts.jpg": {
+		"ft": 16384,
+		"iS": 47924,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/public/images/thumb-podcasts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/public/img/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 4061,
@@ -988,6 +1010,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/public/img/avatar-apb.jpg": {
+		"ft": 16384,
+		"iS": 18094,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/public/img/avatar-apb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/img/avatar-apb.png": {
@@ -5014,17 +5047,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/static/img/blog/thumb-moments.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/static/img/blog/thumb-podcasts.jpg": {
-		"ft": 16384,
-		"iS": 47924,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/static/img/blog/thumb-podcasts.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

@@ -14,7 +14,7 @@ date = "2019-04-02T12:42:00-00:00"
 
 <span class="dropcap">H</span>ow do you find new podcasts? For me, discovery never happens by just browsing a podcast app. I am always looking for personal recommendations or hot tips on my twitter feed.  In the spirit of relevant recommendations, I am offering my go-to **podcasts** and **favorite episodes** broken down into mostly nonsensical categories of Road Trip, Morning Commuting, Sleep Aids, and Design Learning (Because I am a UX Designer).
 
-What podcasts do you listen to and in which category do they fit? [Let me know on twitter](https://twitter.com/i/web/status/{tweet-status-id}). 
+What podcasts do you listen to and in which category do they fit? [Let me know on twitter](https://twitter.com/dtandyb/status/1115472627915722753). 
 
 ### Road Tripping
 
@@ -36,14 +36,14 @@ Here are a set of podcasts that are great for the road. Generally, these are lon
 
 **Favorite Episodes:**
 
-- [Episode 123 of Song Exploder](http://songexploder.net/yo-yo-ma) - Lin-Manuel Miranda tells the story of a song called *Almost like Praying* that was created in response to **hurricane Maria. 
+- [Episode 123 of Song Exploder](http://songexploder.net/yo-yo-ma) - Yo-Yo Ma breaks down Johann Sebastian Bach’s Cello Suite Number 1 in G Major.
 - [A Radiolab Episode from 2010 called Falling](https://www.wnycstudios.org/story/91726-falling) - This is a characteristic episode that tells novel stories aligned to a simple concept. In this case it covers some great falls including Niagara Falls, falling cats, and our favorite songs about falling.
-- [99% Invisible episode called Usonia](https://99percentinvisible.org/episode/usonia/) - Covers Frank Lloyd Wright and his ambition to create architecture for all
+- [99% Invisible episode called Usonia](https://99percentinvisible.org/episode/usonia/) - Frank Lloyd Wright and his ambition to create architecture for all
 - [More Perfect Episode called The Political Thicket](https://www.wnycstudios.org/story/the-political-thicket) - The story of a supreme court cast that caused one Supreme Court justice to a nervous breakdown, brought a boiling feud to a head, put one justice in the hospital, and changed the course of the Supreme Court — and the nation — forever.
 - [The Bowery Boys New York City History Podcast #254 The Destruction of Penn Station](http://www.boweryboyshistory.com/2018/02/destruction-penn-station-one-entered-city-like-god-one-scuttles-now-like-rat.html) - Why did they knock down the old Penn Station, once the 4th largest building of the world it had a mythic reputation for opulence?
 - [There goes the Neighborhood Episode 1 Mouth to Ear](https://www.wnycstudios.org/story/mouth-ear-brooklyn-gentrification) - Who are the people who are affected by change and who is bringing it in the gentrification of Brooklyn?
-- [The Satire Paradox from Revisionist History](http://revisionisthistory.com/episodes/10-the-satire-paradox) - How does exactly the opposite of what you wanted happen?
-- [Reply All theme music by Breakmaster Cyliner on Song Exploder](http://songexploder.net/reply-all) - A mysterious artist breaks down a surprising process that introduces one of my favorite podcasts.
+- [The Satire Paradox from Revisionist History](http://revisionisthistory.com/episodes/10-the-satire-paradox) - How does exactly the opposite of what you wanted happen? Malcolm Gladwell asks whether laughter and social protest are friends or foes.
+- [Reply All theme music by Breakmaster Cyliner on Song Exploder](http://songexploder.net/reply-all) - A mysterious artist breaks down a surprising process that introduces another one of the postcasts on this list.
 
 ### Morning Commuting
 

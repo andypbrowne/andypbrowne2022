@@ -40,7 +40,9 @@ body {
 p.serif {
   font-family: "minion-pro-1", "minion-pro-2", serif;
 }
-
+p {
+  margin-bottom: 1.8rem;
+}
 a {
   font-weight: 400;
   color: $link-color;
@@ -48,12 +50,14 @@ a {
 //  border-bottom: 2px solid;
   &:focus,
   &:hover {
-    
+     
   }
 }
-
-p {
-  margin: 1.6rem 0 1.6rem 0;
+ul li, ol li {
+  margin: 0.8rem 0 0 0;  
+}
+p, ul li, ol li {
+  
   a {
     font-weight: 400;
     color: $link-color;
@@ -170,11 +174,11 @@ h2.serif-hero {
   text-align:center;
   font-variant-numeric: oldstyle-nums;
   color: lighten($fg-color, 40%); 
-  background: linear-gradient(130deg, rgba(131,255,13,1) 0%, rgba(27,0,255,1) 50%, rgba(117,0,237,1) 100%);
-    background-clip: text;
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: rgba(0,0,0,.15);
+  background: -webkit-gradient(linear,left top,right top,from(#3668cc),to(#7500ed));
+  background: linear-gradient(to right, #3668cc 50%, #7500ed 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(0,0,0,.15);
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 3rem;
     line-height: 1.1;
@@ -194,8 +198,10 @@ p.date {
   color: lighten($fg-color, 40%); 
 }
 h3 {
-  font-size: 1.8rem;
-  line-height: 1.8rem;
+  font-size: 2.2rem;
+  line-height: 2.2rem;
+  font-family:	"acumin-pro-wide", sans-serif;
+  margin-top:5.0rem;
   text-transform: uppercase;
   letter-spacing:0.25rem;
   color: lighten($fg-color, 40%);
@@ -464,6 +470,7 @@ a.navigation-title {
     display:flex;
     flex-flow:row wrap;
     flex: 1 1 30em;
+    margin-bottom: 60px;
 }
 .image-thumbnail-grid > img {
     flex: 1 0 33.3333%;
@@ -480,6 +487,11 @@ a.navigation-title {
 .image-thumbnail-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+   .image-thumbnail-grid {
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+} 
 }
 
 .image-float-left {
