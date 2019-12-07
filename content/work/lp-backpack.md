@@ -5,9 +5,9 @@ title = "LP Backpack"
 date = "" 
 +++
 
-<figure>
+
 <img class="intro-icon" src="img/work/lp-backpack-illustration-black.png" alt="Illustration of the backpack used to represent concepts in this fictional product">
-</figure>
+
 
 <span class="dropcap">A</span> robust student project, LP Backpack was created for a continuing education course at the School of the Visual Arts Interaction design program. 
 

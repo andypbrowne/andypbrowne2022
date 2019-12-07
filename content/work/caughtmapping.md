@@ -5,7 +5,7 @@ title = "Caught Mapping"
 date = "" 
 +++
 
-## A continuing collaboration between artists exploring cartography and invented landscapes
+<h2 class="serif-hero">A continuing collaboration between artists exploring cartography and invented landscapes</h2>
 
 {{< figure src="img/work/cm-reader-w-typewriter.jpg" caption="The CM newsprint reader sitting in a coffee shop" >}} 
 

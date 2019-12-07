@@ -466,6 +466,17 @@ a.navigation-title {
     flex: 1 1 30em;
 }
 
+//flex layout for work case studies
+.apb-work-overview {
+    display:flex;
+    font-size: 80%;
+    margin: 0 -200px;
+    h3 {
+        font-size: 1.2rem;
+        margin: 0 0 .8rem;
+    }
+}
+
 .image-thumbnail-grid {
     display:flex;
     flex-flow:row wrap;

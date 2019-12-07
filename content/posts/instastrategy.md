@@ -4,10 +4,9 @@ type = ""
 description = "6 types of instagram posts for artists and creative professionals to promote their work"
 title = "Insta Strategy"
 date = "2017-08-07T12:42:00-00:00" 
-js = " https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"
 +++
 
- <h2>Six types of instagram posts for artists and creative professionals to promote their work</h2> 
+ <h2 class="serif-hero">Six types of instagram posts for artists and creative professionals to promote their work</h2> 
  
  <p>
      Instagram a a social media platform has emerged a the most authentic way to represent yourself online. It's simplicity and format provide a built-in bullshit filter. As a bonus, the interface makes the process of discovery, curation and promotion intuitive and user-friendly.

@@ -7,7 +7,7 @@ date = "2015-02-11T12:42:00-00:00"
 
 <div class="serif">
 
-<h2>One hundred years later media, maps, websites and organizations to guide your commemoration of the war to end all wars</h2>
+<h2 class="serif-hero">One hundred years later media, maps, websites and organizations to guide your commemoration of the war to end all wars</h2>
 
 <img alt="World War I soldiers in a dead forest" src="img/blog/ww1-soldiers-in-a-dead-forest.jpg">
 <p class="caption"><span class="small-caps">WWI</span> Soldiers in a dead Forest</p>

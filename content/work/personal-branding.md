@@ -5,7 +5,7 @@ title = "Personal Branding"
 date = ""
 +++
 
-> ## A brand is not necessarily visual. It’s a promise of an experience 
+<h2 class="serif-hero">A brand is not necessarily visual. It’s a promise of an experience</h2>
 
 <p class="caption">Sean Adams, as referenced in brand thinking and the <a href="http://debbiemillman.com/brandthinking/definition-of-brand.php" target="_blank">definition of brand</a></p>
 

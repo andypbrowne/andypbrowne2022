@@ -9,7 +9,7 @@ title = "Facilitating LEGO® SERIOUSPLAY®"
 date = "2018-12-23T12:42:00-00:00"
 +++
 
-## LEGOs® can put corporate colleagues on the therapy couch
+<h2 class="serif-hero">LEGOs® can put corporate colleagues on the therapy couch</h2>
 
 {{< figure src="img/blog/lsp04.jpg" caption="LEGO® SERIOUSPLAY® uses special sets of neutral bricks because themed bricks may carry too much meaning" >}}
 
