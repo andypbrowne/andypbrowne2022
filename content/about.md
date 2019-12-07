@@ -6,7 +6,7 @@ meta = "false" #Do not display tags or categories
 +++
 
 <figure class="avatar">
-  <img src="https://en.gravatar.com/userimage/10197003/9a3faef005ccab78ac67d3677ff5fff3.jpg?size=400" alt="cartoon portrait of andy wearing a blue hat">
+  <img src="img/avatar-rad.jpg" alt="cartoon portrait of andy wearing a blue hat">
 </figure>
 
 Andy is a Digital Designer in JPMorgan Chase &amp; Co.’s Chief Operating Office. He is a steward of the firm's brand—he supports presentations and information design for digital and print products. Andy has worked for the firm’s Corporate and Investment Bank and Cybersecurity & Technology Controls for seven years in creative roles. He has a passion for visual design, user experience and web development.
