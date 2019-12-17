@@ -640,6 +640,28 @@ img.intro-icon {
 p.grid-caption {
   font-size: 80%; }
 
+@media (prefers-color-scheme: dark) {
+  img {
+    opacity: .6;
+    transition: opacity .5s ease-in-out; }
+  img:hover {
+    opacity: 1; }
+  body {
+    color: #A0A0A0;
+    background-color: #222222; }
+  .apb-flex-boxes .info {
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.65); }
+  .apb-flex-boxes :hover .info, .apb-flex-boxes :active .info {
+    opacity: .4; }
+    .apb-flex-boxes :hover .info h4.flex-title, .apb-flex-boxes :hover .info p.tags, .apb-flex-boxes :active .info h4.flex-title, .apb-flex-boxes :active .info p.tags {
+      opacity: 0; }
+  .apb-flex-boxes h4.flex-title, .apb-flex-boxes p.tags {
+    opacity: 1;
+    color: #dcdcdc; }
+  .apb-flex-boxes .navigation a:hover, .apb-flex-boxes .navigation a:active {
+    color: white; } }
+
 body.rtl {
   direction: rtl; }
   body.rtl blockquote {

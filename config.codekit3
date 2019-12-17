@@ -68,6 +68,13 @@
 		"oAP": "/layouts/_default/work-grid.html",
 		"oF": 0
 		},
+	"/netlify.toml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/netlify.toml",
+		"oF": 0
+		},
 	"/public/404.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4314,6 +4321,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/static/img/avatar-rad.jpg": {
+		"ft": 16384,
+		"iS": 13953,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/static/img/avatar-rad.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/static/img/bleu_thumb.jpg": {
