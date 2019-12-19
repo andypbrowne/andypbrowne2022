@@ -649,6 +649,11 @@ p.grid-caption {
   body {
     color: #A0A0A0;
     background-color: #222222; }
+  h1, h2 {
+    color: #A0A0A0; }
+  p a:focus, p a:hover, ul li a:focus, ul li a:hover, ol li a:focus, ol li a:hover {
+    border-bottom: 3px solid;
+    color: #A0A0A0; }
   .apb-flex-boxes .info {
     opacity: 1;
     background-color: rgba(0, 0, 0, 0.65); }
@@ -658,7 +663,7 @@ p.grid-caption {
       opacity: 0; }
   .apb-flex-boxes h4.flex-title, .apb-flex-boxes p.tags {
     opacity: 1;
-    color: #dcdcdc; }
+    color: #A0A0A0; }
   .apb-flex-boxes .navigation a:hover, .apb-flex-boxes .navigation a:active {
     color: white; } }
 

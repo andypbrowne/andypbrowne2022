@@ -798,6 +798,14 @@ p.grid-caption {
     color: $dark-fg-color;
     background-color: $dark-bg-color;
   }
+  h1, h2 {
+    color: $dark-fg-color;
+  }
+  p a:focus, p a:hover, ul li a:focus, ul li a:hover, ol li a:focus, ol li a:hover {
+    border-bottom: 3px solid;
+    color: 
+    $dark-fg-color;
+}
   .apb-flex-boxes {
     .info {
       opacity: 1;
@@ -811,7 +819,7 @@ p.grid-caption {
     }
     h4.flex-title, p.tags{
       opacity: 1; 
-      color:$darker-bg-color;
+      color:$dark-fg-color;
     }
     .navigation {
       a:hover, a:active {
