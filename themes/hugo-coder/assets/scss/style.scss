@@ -1,16 +1,16 @@
-@import "colors.scss";
-  
 //variables for type
-  
 $serif: "minion-pro-1", "minion-pro-2", serif;
 
 // variables for colors
 $bg-color: #fefefe;
+$dark-bg-color:#222222;
 $fg-color: #323232;
+$dark-fg-color:#A0A0A0;
 $light-gray: #606060;
 $darker-bg-color: #dcdcdc;
 $darker-fg-color: #222222;
-$link-color: #3366CC;
+$link-color: #3366CC; 
+
 
 *,
 *:after,
@@ -40,35 +40,66 @@ body {
 p.serif {
   font-family: "minion-pro-1", "minion-pro-2", serif;
 }
-
+p {
+  margin-bottom: 1.8rem;
+}
 a {
   font-weight: 400;
   color: $link-color;
   text-decoration: none;
-  border-bottom: 2px;
+//  border-bottom: 2px solid;
   &:focus,
   &:hover {
-    border-bottom: 3px;
+     
   }
 }
-
-p {
-  margin: 1.6rem 0 1.6rem 0;
+ul li, ol li {
+  margin: 0.8rem 0 0 0;  
+}
+p, ul li, ol li {
+  
   a {
     font-weight: 400;
-    color: $darker-fg-color;
-    text-decoration: underline;
+    color: $link-color;
+    text-decoration: none;
+    border-bottom: 2px solid;
     text-underline-position: under;
     &:focus,
     &:hover {
-      color: $link-color;
+      border-bottom: 3px solid;
+      color: darken( $link-color, 10% )
     }
   }
 }
-
+span.dropcap {
+  display: block;
+  position: relative;
+  float: left;
+  --x-height-multiplier: 0.342;
+  --baseline-multiplier: 0.22;
+  letter-spacing: -.02em;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: 0;
+  font-size: 53px;
+  padding-top: 6px;
+  margin-left: -5px;
+  margin-right: 7px;
+  letter-spacing: -.03em;
+  line-height: .8;
+  margin-bottom: -.08em;
+  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    font-size:44px;
+    margin-right:4px;
+    padding-top:4px;
+  }
+}
 article figure {
   margin: 6rem 0px;
   padding: 0px;
+  @media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
+    margin: 3rem -2rem;
+  }
 }
 figure p, figure figcaption, p.caption {
   color:lighten($fg-color, 20%);
@@ -77,6 +108,9 @@ figure p, figure figcaption, p.caption {
   margin-top:1.4rem;
   line-height:1.2;
   font-style:italic;
+  @media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
+    margin: 1rem 2rem;
+  }
 }
 
 h1,
@@ -95,14 +129,14 @@ h6 {
 
 h1 {
   font-size: 3.2rem;
-  line-height: 3.2rem;
+  line-height: 3.6rem;
   font-family:	"acumin-pro-wide", sans-serif;
   font-weight: 700;
 //  color: lighten($fg-color, 60%);
   color: $fg-color;
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 2.8rem;
-    line-height: 2.8rem;
+    line-height: 3.2rem;
   }
 }
 h2 {
@@ -124,6 +158,7 @@ h2 {
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 2.8rem;
     line-height: 1.1;
+    margin: 0px auto;
   }
 } 
 h2.serif-hero {
@@ -132,29 +167,41 @@ h2.serif-hero {
   font-size:5rem;
   font-weight:400;
   line-height:1.2;
-  color: lighten($fg-color, 40%);
-  letter-spacing:0.03rem;
+  letter-spacing:0.02rem;
   max-width:80rem;
   align-self:center;
   margin: 60px auto;
   text-align:center;
   font-variant-numeric: oldstyle-nums;
+  color: lighten($fg-color, 40%); 
+  background: -webkit-gradient(linear,left top,right top,from(#3668cc),to(#7500ed));
+  background: linear-gradient(to right, #3668cc 50%, #7500ed 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(0,0,0,.15);
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 3rem;
     line-height: 1.1;
+    margin: 30px auto;
   }
 }
+
 h2.serif-hero > .smaller {
     font-size:60%;
     text-align:left;
   }
 h2.date {
-  color: lighten($fg-color, 60%);
+  color: lighten($fg-color, 40%);
   text-align: left;
 }
+p.date {
+  color: lighten($fg-color, 40%); 
+}
 h3 {
-  font-size: 1.8rem;
-  line-height: 1.8rem;
+  font-size: 2.2rem;
+  line-height: 2.2rem;
+  font-family:	"acumin-pro-wide", sans-serif;
+  margin-top:5.0rem;
   text-transform: uppercase;
   letter-spacing:0.25rem;
   color: lighten($fg-color, 40%);
@@ -165,12 +212,12 @@ h3 {
 }
 h4 {
   font-size: 2.4rem;
-  line-height: 2.4rem;
+  line-height: 2.8rem;
   font-family:	"acumin-pro-wide", sans-serif;
   font-weight: 700;
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     font-size: 2.0rem;
-    line-height: 2.0rem;
+    line-height: 2.4rem;
   }
 }
 //h5 {
@@ -203,15 +250,21 @@ code {
 }
 
 blockquote {
-  //  border-left: 2px solid $darker-bg-color;
+//  border-left: 2px solid $darker-bg-color;
   border-left: none;
- // padding-left: 1.6rem;
+// padding-left: 1.6rem;
 //  font-family: "minion-pro-1", "minion-pro-2", serif;
-  font-style: italic;
+//  font-style: italic;
   hanging-punctuation: first;
 //  font-size:120%;
 //  color: $fg-color;
-  margin: 0 20% 2em;
+  margin: 0 5% 2em;  
+}
+blockquote > h4 {
+  line-height:3.2rem;
+  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    line-height: 2.4rem;
+  }
 }
 blockquote.serif {
   font-family: "minion-pro-1", "minion-pro-2", serif;
@@ -285,6 +338,7 @@ img {
 .navigation {
 //  height: 6.0rem;
   width: 100%;
+  color: $fg-color;
   a {
     display: inline;
     font-size: 1.6rem;
@@ -368,7 +422,7 @@ a.navigation-title {
   .info {
     opacity: 0;
     z-index:10;
-    background-color:rgba(0,0,0,0.65);
+    background-color:rgba(0, 0, 0, 0.65);
     padding: 2em 2em 3em 2em;
     height: 100%;
   }
@@ -413,17 +467,44 @@ a.navigation-title {
     flex: 1 1 30em;
 }
 
-// lets try some grid
-//@supports (display: grid) {
-//  .apb-flex-boxes {
-//    display: grid;
-//    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-//    grid-auto-rows: minmax(150px, auto);
-//  }
-//  .tall-panel{
-//    grid-row-end: span 2;
-//  }
-//}
+//flex layout for work case studies
+.apb-work-overview {
+    display:flex;
+    font-size: 80%;
+    margin: 0 -200px;
+    h3 {
+        font-size: 1.2rem;
+        margin: 0 0 .8rem;
+    }
+}
+
+.image-thumbnail-grid {
+    display:flex;
+    flex-flow:row wrap;
+    flex: 1 1 30em;
+    margin-bottom: 60px;
+}
+.image-thumbnail-grid > img {
+    flex: 1 0 33.3333%;
+    flex-basis: 200px;
+}
+@supports (display: grid) {
+    .image-thumbnail-grid > img {
+ 
+  }
+}
+
+/* Let's Define the Grid
+----------------------------------------------------------------------------------------------------*/
+.image-thumbnail-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+   .image-thumbnail-grid {
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+} 
+}
 
 .image-float-left {
   width: 60%;
@@ -435,7 +516,9 @@ a.navigation-title {
     float:none;
   }
 }
-
+.dark-bg {
+  margin:0 -2rem 2rem;
+}
 .dark-bg p{
   color:#ffffff;
   max-width:20em;
@@ -475,7 +558,7 @@ a.navigation-title {
   padding:0px;
 }
 .post-list-grid ul {
-
+  list-style:none;
 }
 .post-list-grid li {
   /* Demo-Specific Styles */
@@ -709,7 +792,6 @@ body.rtl {
     border-right: 2px solid $darker-bg-color;
     padding-right: 1.6rem;
   }
-
   table tr td:first-child,
   table tr th:first-child {
     border-right: 0;
@@ -742,3 +824,48 @@ body.rtl {
   }
 } 
 
+@media (prefers-color-scheme: dark) {
+  img {
+    opacity: .6;
+    transition: opacity .5s ease-in-out;
+  }
+  img:hover {
+    opacity: 1;
+  }
+  body {
+    color: $dark-fg-color;
+    background-color: $dark-bg-color;
+  }
+  span.view-mode:before {
+    content: "Dark Mode";
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: $dark-fg-color; 
+  }
+  p a:focus, p a:hover, ul li a:focus, ul li a:hover, ol li a:focus, ol li a:hover {
+    border-bottom: 3px solid;
+    color: 
+    $dark-fg-color;
+  }
+  .apb-flex-boxes {
+    .info {
+      opacity: 1;
+      background-color:rgba(0,0,0,0.65);
+    } 
+    :hover .info, :active .info {
+      opacity: .4;
+      h4.flex-title, p.tags {
+        opacity: 0;  
+      }
+    }
+    h4.flex-title, p.tags{
+      opacity: 1; 
+      color:$dark-fg-color;
+    }
+    .navigation {
+      a:hover, a:active {
+        color: white;
+      }
+    }
+  }
+}
