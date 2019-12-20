@@ -836,6 +836,9 @@ body.rtl {
     color: $dark-fg-color;
     background-color: $dark-bg-color;
   }
+  span.view-mode:before {
+    content: "Dark Mode";
+  }
   h1, h2, h3, h4, h5, h6 {
     color: $dark-fg-color; 
   }

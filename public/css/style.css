@@ -670,6 +670,8 @@ body.rtl {
   body {
     color: #A0A0A0;
     background-color: #222222; }
+  span.view-mode:before {
+    content: "Dark Mode"; }
   h1, h2, h3, h4, h5, h6 {
     color: #A0A0A0; }
   p a:focus, p a:hover, ul li a:focus, ul li a:hover, ol li a:focus, ol li a:hover {
