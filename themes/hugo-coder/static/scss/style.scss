@@ -1,7 +1,4 @@
-@import "colors.scss"; 
-  
 //variables for type
-  
 $serif: "minion-pro-1", "minion-pro-2", serif;
 
 // variables for colors
@@ -425,7 +422,7 @@ a.navigation-title {
   .info {
     opacity: 0;
     z-index:10;
-    background-color:rgba(0,0,0,0.65);
+    background-color:rgba(0, 0, 0, 0.65);
     padding: 2em 2em 3em 2em;
     height: 100%;
   }
