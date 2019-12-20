@@ -28,7 +28,25 @@ disqusShortname = "yourdiscussshortname"
 
     # RTL support
     rtl = false
-    
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
+
 [taxonomies]
   description = "descriptions"
   tag = "tags"

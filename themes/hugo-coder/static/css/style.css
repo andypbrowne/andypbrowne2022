@@ -274,7 +274,8 @@ img {
       flex-direction: column; } }
 
 .navigation {
-  width: 100%; }
+  width: 100%;
+  color: #323232; }
   .navigation a {
     display: inline;
     font-size: 1.6rem;
@@ -640,33 +641,6 @@ img.intro-icon {
 p.grid-caption {
   font-size: 80%; }
 
-@media (prefers-color-scheme: dark) {
-  img {
-    opacity: .6;
-    transition: opacity .5s ease-in-out; }
-  img:hover {
-    opacity: 1; }
-  body {
-    color: #A0A0A0;
-    background-color: #222222; }
-  h1, h2 {
-    color: #A0A0A0; }
-  p a:focus, p a:hover, ul li a:focus, ul li a:hover, ol li a:focus, ol li a:hover {
-    border-bottom: 3px solid;
-    color: #A0A0A0; }
-  .apb-flex-boxes .info {
-    opacity: 1;
-    background-color: rgba(0, 0, 0, 0.65); }
-  .apb-flex-boxes :hover .info, .apb-flex-boxes :active .info {
-    opacity: .4; }
-    .apb-flex-boxes :hover .info h4.flex-title, .apb-flex-boxes :hover .info p.tags, .apb-flex-boxes :active .info h4.flex-title, .apb-flex-boxes :active .info p.tags {
-      opacity: 0; }
-  .apb-flex-boxes h4.flex-title, .apb-flex-boxes p.tags {
-    opacity: 1;
-    color: #A0A0A0; }
-  .apb-flex-boxes .navigation a:hover, .apb-flex-boxes .navigation a:active {
-    color: white; } }
-
 body.rtl {
   direction: rtl; }
   body.rtl blockquote {
@@ -686,3 +660,30 @@ body.rtl {
     @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       body.rtl .list ul li span {
         text-align: right; } }
+
+@media (prefers-color-scheme: dark) {
+  img {
+    opacity: .6;
+    transition: opacity .5s ease-in-out; }
+  img:hover {
+    opacity: 1; }
+  body {
+    color: #A0A0A0;
+    background-color: #222222; }
+  h1, h2, h3, h4, h5, h6 {
+    color: #A0A0A0; }
+  p a:focus, p a:hover, ul li a:focus, ul li a:hover, ol li a:focus, ol li a:hover {
+    border-bottom: 3px solid;
+    color: #A0A0A0; }
+  .apb-flex-boxes .info {
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.65); }
+  .apb-flex-boxes :hover .info, .apb-flex-boxes :active .info {
+    opacity: .4; }
+    .apb-flex-boxes :hover .info h4.flex-title, .apb-flex-boxes :hover .info p.tags, .apb-flex-boxes :active .info h4.flex-title, .apb-flex-boxes :active .info p.tags {
+      opacity: 0; }
+  .apb-flex-boxes h4.flex-title, .apb-flex-boxes p.tags {
+    opacity: 1;
+    color: #A0A0A0; }
+  .apb-flex-boxes .navigation a:hover, .apb-flex-boxes .navigation a:active {
+    color: white; } }

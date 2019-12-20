@@ -23,6 +23,14 @@
 		"oAP": "/.gitmodules",
 		"oF": 0
 		},
+	"/.vscode/tasks.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/.vscode/tasks-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/archetypes/default.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1039,6 +1047,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/public/img/avatar-rad.jpg": {
+		"ft": 16384,
+		"iS": 13953,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/public/img/avatar-rad.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/img/bleu_thumb.jpg": {

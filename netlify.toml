@@ -1,14 +1,12 @@
-[build] 
+[build]
   publish = "public"
-  command = "hugo"
+  command = "make prepare && hugo --source demo --baseURL $URL"
 
 [context.production.environment]
-  HUGO_VERSION = "0.53" # if older, use format: 0.53 (no trailing zero)
-  HUGO_ENV = "production"
-  HUGO_ENABLEGITINFO = "true"
-  
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.53" # if older, use format: 0.53 (no trailing zero)
+  HUGO_VERSION = "0.61.0"
+
+[context.deploy-preview]
+  command = "make prepare && hugo --source demo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.53"
+  HUGO_VERSION = "0.61.0"
