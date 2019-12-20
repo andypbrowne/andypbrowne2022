@@ -127,16 +127,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/public/css/style-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/public/css/style-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/public/css/style-rtl.min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -635,50 +625,6 @@
 		"oAP": "/public/descriptions/page/1/index.html",
 		"oF": 0
 		},
-	"/public/images/android-chrome-192x192.png": {
-		"ft": 32768,
-		"iS": 4061,
-		"oA": 0,
-		"oAP": "/public/images/android-chrome-192x192.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/android-chrome-256x256.png": {
-		"ft": 32768,
-		"iS": 5578,
-		"oA": 0,
-		"oAP": "/public/images/android-chrome-256x256.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/apple-touch-icon.png": {
-		"ft": 32768,
-		"iS": 12919,
-		"oA": 0,
-		"oAP": "/public/images/apple-touch-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/avatar-apb.jpg": {
-		"ft": 16384,
-		"iS": 18094,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/images/avatar-apb.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/public/images/avatar-apb.png": {
 		"ft": 32768,
 		"iS": 22491,
@@ -699,17 +645,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"/public/images/avatar.png": {
-		"ft": 32768,
-		"iS": 22491,
-		"oA": 0,
-		"oAP": "/public/images/avatar.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/public/images/bleu_thumb.jpg": {
@@ -758,38 +693,20 @@
 		},
 	"/public/images/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 821,
+		"iS": 43,
 		"oA": 0,
 		"oAP": "/public/images/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"/public/images/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 1211,
+		"iS": 43,
 		"oA": 0,
 		"oAP": "/public/images/favicon-32x32.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/public/images/favicon.ico",
-		"oF": 0
-		},
-	"/public/images/favicon.png": {
-		"ft": 32768,
-		"iS": 3260,
-		"oA": 0,
-		"oAP": "/public/images/favicon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -801,94 +718,6 @@
 		"iS": 2263,
 		"oA": 0,
 		"oAP": "/public/images/fg_thumb.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/icons/icon-128x128.png": {
-		"ft": 32768,
-		"iS": 40764,
-		"oA": 0,
-		"oAP": "/public/images/icons/icon-128x128.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/icons/icon-144x144.png": {
-		"ft": 32768,
-		"iS": 50437,
-		"oA": 0,
-		"oAP": "/public/images/icons/icon-144x144.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/icons/icon-152x152.png": {
-		"ft": 32768,
-		"iS": 55267,
-		"oA": 0,
-		"oAP": "/public/images/icons/icon-152x152.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/icons/icon-192x192.png": {
-		"ft": 32768,
-		"iS": 85478,
-		"oA": 0,
-		"oAP": "/public/images/icons/icon-192x192.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/icons/icon-384x384.png": {
-		"ft": 32768,
-		"iS": 174987,
-		"oA": 0,
-		"oAP": "/public/images/icons/icon-384x384.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/icons/icon-512x512.png": {
-		"ft": 32768,
-		"iS": 174987,
-		"oA": 0,
-		"oAP": "/public/images/icons/icon-512x512.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/icons/icon-72x72.png": {
-		"ft": 32768,
-		"iS": 14975,
-		"oA": 0,
-		"oAP": "/public/images/icons/icon-72x72.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/public/images/icons/icon-96x96.png": {
-		"ft": 32768,
-		"iS": 24619,
-		"oA": 0,
-		"oAP": "/public/images/icons/icon-96x96.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -972,28 +801,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/public/images/thumb-lsp.jpg": {
-		"ft": 16384,
-		"iS": 40858,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/images/thumb-lsp.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/public/images/thumb-podcasts.jpg": {
-		"ft": 16384,
-		"iS": 47924,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/images/thumb-podcasts.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/public/img/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 4061,
@@ -1025,17 +832,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
-		},
-	"/public/img/avatar-apb.jpg": {
-		"ft": 16384,
-		"iS": 18094,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/img/avatar-apb.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/public/img/avatar-apb.png": {
@@ -1791,17 +1587,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/img/blog/thumb-moments.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/public/img/blog/thumb-podcasts.jpg": {
-		"ft": 16384,
-		"iS": 47924,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/img/blog/thumb-podcasts.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2833,16 +2618,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/public/js/isotope.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/public/js/isotope-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"/public/js/reveal.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2883,7 +2658,7 @@
 		"oAP": "/public/posts/images/24619b6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/24619b6_thumb.jpg": {
@@ -2894,7 +2669,7 @@
 		"oAP": "/public/posts/images/24619b6_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/57ae6ac37480b42b138b46fc.jpg": {
@@ -2905,7 +2680,7 @@
 		"oAP": "/public/posts/images/57ae6ac37480b42b138b46fc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/57ae8ecc7480b42b138b47d5.jpg": {
@@ -2916,7 +2691,7 @@
 		"oAP": "/public/posts/images/57ae8ecc7480b42b138b47d5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/arc_de_triomphe-thumb.jpg": {
@@ -2927,7 +2702,7 @@
 		"oAP": "/public/posts/images/arc_de_triomphe-thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/arc_de_triomphe.jpg": {
@@ -2938,7 +2713,7 @@
 		"oAP": "/public/posts/images/arc_de_triomphe.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/arc_de_triomphe@0,25x.jpg": {
@@ -2949,7 +2724,7 @@
 		"oAP": "/public/posts/images/arc_de_triomphe@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/arc_de_triomphe@0,5x.jpg": {
@@ -2960,7 +2735,7 @@
 		"oAP": "/public/posts/images/arc_de_triomphe@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/b41bfe4f2f949128a25ba05eac240c8d.jpg": {
@@ -2971,7 +2746,7 @@
 		"oAP": "/public/posts/images/b41bfe4f2f949128a25ba05eac240c8d.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/b41bfe4f2f949128a25ba05eac240c8d@0,25x.jpg": {
@@ -2982,7 +2757,7 @@
 		"oAP": "/public/posts/images/b41bfe4f2f949128a25ba05eac240c8d@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/b41bfe4f2f949128a25ba05eac240c8d@0,5x.jpg": {
@@ -2993,7 +2768,7 @@
 		"oAP": "/public/posts/images/b41bfe4f2f949128a25ba05eac240c8d@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/data2go-dashboard.png": {
@@ -3002,8 +2777,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/data2go-dashboard.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3013,8 +2788,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/data2go-dashboard@0,25x.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3024,8 +2799,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/data2go-dashboard@0,5x.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3037,7 +2812,7 @@
 		"oAP": "/public/posts/images/data2go-lunchtalk-thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/data2go-lunchtalk.jpg": {
@@ -3048,7 +2823,7 @@
 		"oAP": "/public/posts/images/data2go-lunchtalk.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/data2go-lunchtalk@0,25x.jpg": {
@@ -3059,7 +2834,7 @@
 		"oAP": "/public/posts/images/data2go-lunchtalk@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/data2go-lunchtalk@0,5x.jpg": {
@@ -3070,7 +2845,7 @@
 		"oAP": "/public/posts/images/data2go-lunchtalk@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/dead-forest.jpg": {
@@ -3081,7 +2856,7 @@
 		"oAP": "/public/posts/images/dead-forest.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/dead-forest@0,25x.jpg": {
@@ -3092,7 +2867,7 @@
 		"oAP": "/public/posts/images/dead-forest@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/dead-forest@0,5x.jpg": {
@@ -3103,7 +2878,7 @@
 		"oAP": "/public/posts/images/dead-forest@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/dead-forest@0,75x.jpg": {
@@ -3114,7 +2889,7 @@
 		"oAP": "/public/posts/images/dead-forest@0,75x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/dead-forest_thumb.jpg": {
@@ -3125,7 +2900,7 @@
 		"oAP": "/public/posts/images/dead-forest_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/firewatch.jpg": {
@@ -3136,7 +2911,7 @@
 		"oAP": "/public/posts/images/firewatch.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/frottage-golden-gate.jpg": {
@@ -3147,7 +2922,7 @@
 		"oAP": "/public/posts/images/frottage-golden-gate.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/frottage-golden-gate@0,25x.jpg": {
@@ -3158,7 +2933,7 @@
 		"oAP": "/public/posts/images/frottage-golden-gate@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/frottage-golden-gate@0,5x.jpg": {
@@ -3169,7 +2944,7 @@
 		"oAP": "/public/posts/images/frottage-golden-gate@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/frottage-golden-gate_thumb.jpg": {
@@ -3180,7 +2955,7 @@
 		"oAP": "/public/posts/images/frottage-golden-gate_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/instastrategy-thumb.png": {
@@ -3189,8 +2964,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy-thumb.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3200,8 +2975,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy01.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3211,8 +2986,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy02.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3222,8 +2997,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy03.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3233,8 +3008,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy04.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3244,8 +3019,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy05.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3255,8 +3030,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy06.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3266,8 +3041,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy07.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3277,8 +3052,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy08.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3288,8 +3063,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy09.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3299,8 +3074,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy10.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3310,8 +3085,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy11.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3321,8 +3096,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy12.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3332,8 +3107,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy13.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3345,7 +3120,7 @@
 		"oAP": "/public/posts/images/lsp00.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/lsp01.jpg": {
@@ -3356,7 +3131,7 @@
 		"oAP": "/public/posts/images/lsp01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/lsp02.jpg": {
@@ -3367,7 +3142,7 @@
 		"oAP": "/public/posts/images/lsp02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/lsp03.jpg": {
@@ -3378,7 +3153,7 @@
 		"oAP": "/public/posts/images/lsp03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/P1090084.jpg": {
@@ -3389,7 +3164,7 @@
 		"oAP": "/public/posts/images/P1090084.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/P1090084@0,25x.jpg": {
@@ -3400,7 +3175,7 @@
 		"oAP": "/public/posts/images/P1090084@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/P1090084@0,5x.jpg": {
@@ -3411,7 +3186,7 @@
 		"oAP": "/public/posts/images/P1090084@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/Poppies_Field_in_Flanders.jpg": {
@@ -3422,7 +3197,7 @@
 		"oAP": "/public/posts/images/Poppies_Field_in_Flanders.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/Poppies_Field_in_Flanders@0,25x.jpg": {
@@ -3433,7 +3208,7 @@
 		"oAP": "/public/posts/images/Poppies_Field_in_Flanders@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/Poppies_Field_in_Flanders@0,5x.jpg": {
@@ -3444,7 +3219,7 @@
 		"oAP": "/public/posts/images/Poppies_Field_in_Flanders@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/Poppies_Field_in_Flanders@1x.jpg": {
@@ -3455,7 +3230,7 @@
 		"oAP": "/public/posts/images/Poppies_Field_in_Flanders@1x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/Schlieffen_Plan_fr.svg.png": {
@@ -3464,8 +3239,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/Schlieffen_Plan_fr.svg.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3475,8 +3250,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/Schlieffen_Plan_fr.svg@0,25x.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3486,8 +3261,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/Schlieffen_Plan_fr.svg@0,5x.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3497,8 +3272,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/Schlieffen_Plan_fr.svg@0,75x.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3520,17 +3295,6 @@
 		"oAP": "/public/posts/images/SSAM-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/public/posts/images/SSAM-02.jpg": {
-		"ft": 16384,
-		"iS": 152075,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/posts/images/SSAM-02.jpg",
-		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3542,7 +3306,7 @@
 		"oAP": "/public/posts/images/SSMA_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/SSMAClub.jpg": {
@@ -3553,7 +3317,7 @@
 		"oAP": "/public/posts/images/SSMAClub.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/SSMAClub@0,25x.jpg": {
@@ -3564,7 +3328,7 @@
 		"oAP": "/public/posts/images/SSMAClub@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/SSMAClub@0,5x.jpg": {
@@ -3575,7 +3339,7 @@
 		"oAP": "/public/posts/images/SSMAClub@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/thumb-moments.jpg": {
@@ -3586,7 +3350,7 @@
 		"oAP": "/public/posts/images/thumb-moments.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/tunnel-under-adt.jpg": {
@@ -3597,7 +3361,7 @@
 		"oAP": "/public/posts/images/tunnel-under-adt.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/view_of_paris_from_the_adt.jpg": {
@@ -3608,7 +3372,7 @@
 		"oAP": "/public/posts/images/view_of_paris_from_the_adt.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/ww1-soldiers-in-a-dead-forest.jpg": {
@@ -3619,7 +3383,7 @@
 		"oAP": "/public/posts/images/ww1-soldiers-in-a-dead-forest.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/ww1-soldiers-in-a-dead-forest@0,25x.jpg": {
@@ -3630,7 +3394,7 @@
 		"oAP": "/public/posts/images/ww1-soldiers-in-a-dead-forest@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/ww1-soldiers-in-a-dead-forest@0,5x.jpg": {
@@ -3641,7 +3405,7 @@
 		"oAP": "/public/posts/images/ww1-soldiers-in-a-dead-forest@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/index.html": {
@@ -3743,7 +3507,7 @@
 		"oAP": "/public/pres/images/amplitude.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/Amplitude_jpmorgan.jpg": {
@@ -3754,7 +3518,7 @@
 		"oAP": "/public/pres/images/Amplitude_jpmorgan.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/bell-centennial.jpg": {
@@ -3765,7 +3529,7 @@
 		"oAP": "/public/pres/images/bell-centennial.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/cheddargorge.jpg": {
@@ -3776,7 +3540,7 @@
 		"oAP": "/public/pres/images/cheddargorge.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/Christian-wchwartz.jpg": {
@@ -3787,7 +3551,7 @@
 		"oAP": "/public/pres/images/Christian-wchwartz.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/cornerstone-freedom-tower-lifted-2004.jpg": {
@@ -3798,7 +3562,7 @@
 		"oAP": "/public/pres/images/cornerstone-freedom-tower-lifted-2004.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/cornerstone10.jpg": {
@@ -3809,7 +3573,7 @@
 		"oAP": "/public/pres/images/cornerstone10.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/desertlandscape.jpg": {
@@ -3820,7 +3584,7 @@
 		"oAP": "/public/pres/images/desertlandscape.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/favicon-16x16.png": {
@@ -3829,8 +3593,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3840,8 +3604,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/favicon-32x32.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3860,7 +3624,7 @@
 		"oAP": "/public/pres/images/fundamentals.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/hoefler-and-frere-jones.jpg": {
@@ -3871,7 +3635,7 @@
 		"oAP": "/public/pres/images/hoefler-and-frere-jones.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/MatthewCarter.jpg": {
@@ -3882,7 +3646,7 @@
 		"oAP": "/public/pres/images/MatthewCarter.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/monogram_apb_bw.png": {
@@ -3891,12 +3655,12 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/monogram_apb_bw.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/public/pres/images/mount-mulanje.jpg": {
+	"/public/pres/images/mount-mulanje.JPG": {
 		"ft": 16384,
 		"iS": 181044,
 		"jF": 0,
@@ -3904,7 +3668,7 @@
 		"oAP": "/public/pres/images/mount-mulanje.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/new-jack-city.jpg": {
@@ -3915,7 +3679,7 @@
 		"oAP": "/public/pres/images/new-jack-city.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/portfolio.JPG": {
@@ -3926,7 +3690,7 @@
 		"oAP": "/public/pres/images/portfolio.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/retina.jpg": {
@@ -3937,7 +3701,7 @@
 		"oAP": "/public/pres/images/retina.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/sva-studio.jpg": {
@@ -3948,7 +3712,7 @@
 		"oAP": "/public/pres/images/sva-studio.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/ted-stage.jpg": {
@@ -3959,7 +3723,7 @@
 		"oAP": "/public/pres/images/ted-stage.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/thumb-designservices.png": {
@@ -3968,8 +3732,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/thumb-designservices.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3979,8 +3743,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/thumb-howwespeak.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3990,8 +3754,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/thumb-mindthegap.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -4003,7 +3767,7 @@
 		"oAP": "/public/pres/images/twelve-apostles.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/zion-angles-landing-2048x1157.jpg": {
@@ -4014,7 +3778,7 @@
 		"oAP": "/public/pres/images/zion-angles-landing-2048x1157.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/index.html": {
@@ -4077,16 +3841,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"/public/scss/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/public/scss/style-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"/public/scss/style.scss": {
 		"aP": 0,
@@ -6403,6 +6157,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/themes/hugo-coder/assets/scss/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/themes/hugo-coder/assets/scss/style-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/themes/hugo-coder/assets/scss/style.scss": {
 		"aP": 0,

@@ -377,6 +377,10 @@ a.navigation-title {
   font-weight: 700;
 }
 
+span.view-mode:before {
+  content: "👋Internet Traveler";
+}
+
 .content {
   flex: 1;
   margin-top: 1.6rem;
@@ -837,7 +841,7 @@ body.rtl {
     background-color: $dark-bg-color;
   }
   span.view-mode:before {
-    content: "Dark Mode";
+    content: "😎We both love darkness";
   }
   h1, h2, h3, h4, h5, h6 {
     color: $dark-fg-color; 
