@@ -7,6 +7,7 @@ $dark-bg-color:#222222;
 $fg-color: #323232;
 $dark-fg-color:#A0A0A0;
 $light-gray: #606060;
+$dark-light-gray:#939393;
 $darker-bg-color: #dcdcdc;
 $darker-fg-color: #222222;
 $link-color: #3366CC; 
@@ -375,6 +376,10 @@ a.navigation-title {
   font-family: acumin-pro-wide;
   letter-spacing:0.2rem;
   font-weight: 700;
+}
+
+span.view-mode:before {
+  content: "👋Internet Traveler";
 }
 
 .content {
@@ -837,15 +842,15 @@ body.rtl {
     background-color: $dark-bg-color;
   }
   span.view-mode:before {
-    content: "Dark Mode";
+    content: "😎 We both love dark mode";
+    color: $dark-light-gray;
   }
   h1, h2, h3, h4, h5, h6 {
     color: $dark-fg-color; 
   }
   p a:focus, p a:hover, ul li a:focus, ul li a:hover, ol li a:focus, ol li a:hover {
     border-bottom: 3px solid;
-    color: 
-    $dark-fg-color;
+    color: $dark-fg-color;
   }
   .apb-flex-boxes {
     .info {
@@ -862,10 +867,10 @@ body.rtl {
       opacity: 1; 
       color:$dark-fg-color;
     }
-    .navigation {
-      a:hover, a:active {
-        color: white;
-      }
+  }
+  .navigation {
+    a:hover, a:active {
+      color: white;
     }
   }
 }
