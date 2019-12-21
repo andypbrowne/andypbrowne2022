@@ -3660,7 +3660,7 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/public/pres/images/mount-mulanje.JPG": {
+	"/public/pres/images/mount-mulanje.jpg": {
 		"ft": 16384,
 		"iS": 181044,
 		"jF": 0,
@@ -4098,7 +4098,7 @@
 		},
 	"/static/img/avatar-rad.jpg": {
 		"ft": 16384,
-		"iS": 13953,
+		"iS": 17541,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/static/img/avatar-rad.jpg",
