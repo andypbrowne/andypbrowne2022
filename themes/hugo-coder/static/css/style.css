@@ -78,7 +78,6 @@ article figure {
 figure p, figure figcaption, p.caption {
   color: #656565;
   text-align: center;
-  font-size: smaller;
   margin-top: 1.4rem;
   line-height: 1.2;
   font-style: italic; }

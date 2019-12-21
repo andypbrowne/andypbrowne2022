@@ -106,7 +106,6 @@ article figure {
 figure p, figure figcaption, p.caption {
   color:lighten($fg-color, 20%);
   text-align:center;
-  font-size:smaller;
   margin-top:1.4rem;
   line-height:1.2;
   font-style:italic;
@@ -331,7 +330,7 @@ img {
   width: 100%;
   padding-left: 2.0rem;
   padding-right: 2.0rem;
-  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     display:flex;
     flex-direction:column;
   }
