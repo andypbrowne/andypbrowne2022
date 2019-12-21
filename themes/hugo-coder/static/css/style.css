@@ -682,6 +682,10 @@ body.rtl {
   p a:focus, p a:hover, ul li a:focus, ul li a:hover, ol li a:focus, ol li a:hover {
     border-bottom: 3px solid;
     color: #A0A0A0; }
+  p a, ul li a, ol li a {
+    color: #5C97BF; }
+  p a:hover, ul li a:hover, ol li a:hover {
+    color: #3366CC; }
   .apb-flex-boxes .info {
     opacity: 1;
     background-color: rgba(0, 0, 0, 0.65); }
@@ -692,5 +696,7 @@ body.rtl {
   .apb-flex-boxes h4.flex-title, .apb-flex-boxes p.tags {
     opacity: 1;
     color: #A0A0A0; }
+  .navigation a, .navigation a:visited {
+    color: #939393; }
   .navigation a:hover, .navigation a:active {
     color: white; } }

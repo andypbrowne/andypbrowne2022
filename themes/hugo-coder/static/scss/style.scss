@@ -11,6 +11,7 @@ $dark-light-gray:#939393;
 $darker-bg-color: #dcdcdc;
 $darker-fg-color: #222222;
 $link-color: #3366CC; 
+$dark-link-color: #5C97BF;
 
 
 *,
@@ -852,6 +853,12 @@ body.rtl {
     border-bottom: 3px solid;
     color: $dark-fg-color;
   }
+  p a, ul li a, ol li a {
+    color: $dark-link-color;
+  }
+  p a:hover, ul li a:hover, ol li a:hover {
+    color: $link-color;
+  }
   .apb-flex-boxes {
     .info {
       opacity: 1;
@@ -869,6 +876,9 @@ body.rtl {
     }
   }
   .navigation {
+    a, a:visited {
+      color: $dark-light-gray;
+    }
     a:hover, a:active {
       color: white;
     }
