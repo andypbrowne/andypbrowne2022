@@ -379,7 +379,7 @@ a.navigation-title {
 }
 
 span.view-mode:before {
-  content: "👋Internet Traveler";
+  content: "| 👋Internet Traveler";
 }
 
 .content {
@@ -842,7 +842,7 @@ body.rtl {
     background-color: $dark-bg-color;
   }
   span.view-mode:before {
-    content: "😎 We both love dark mode";
+    content: "| 😎 We both love dark mode";
     color: $dark-light-gray;
   }
   h1, h2, h3, h4, h5, h6 {

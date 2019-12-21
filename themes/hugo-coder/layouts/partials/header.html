@@ -2,7 +2,7 @@
   <section class="nav-container">
     <a class="navigation-title" href="{{ .Site.BaseURL }}">
       {{ .Site.Title }}
-    </a>  | <span class="view-mode"></span> 
+    </a> <span class="view-mode"></span> 
     {{ with .Site.Menus.main }}
     <ul class="navigation-list {{ if $.Site.Params.rtl }} float-left {{ else }} float-right {{ end }}">
       {{ range sort . }}

@@ -309,7 +309,7 @@ a.navigation-title {
   font-weight: 700; }
 
 span.view-mode:before {
-  content: "👋Internet Traveler"; }
+  content: "| 👋Internet Traveler"; }
 
 .content {
   flex: 1;
@@ -674,7 +674,7 @@ body.rtl {
     color: #A0A0A0;
     background-color: #222222; }
   span.view-mode:before {
-    content: "😎 We both love dark mode";
+    content: "| 😎 We both love dark mode";
     color: #939393; }
   h1, h2, h3, h4, h5, h6 {
     color: #A0A0A0; }
