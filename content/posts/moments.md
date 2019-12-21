@@ -12,9 +12,8 @@ date = "2016-08-12T12:42:00-00:00"
     background-size:cover; 
     background-color:#333;
     padding: 50vh 10% 10vh;">
-   
-    <p class="type underline">August 12, 2016 &dash; Moment</p>
-    <p><em>
+   <p class="type underline">August 12, 2016 &dash; Moment</p>
+<p><em>
       A man laboriously moves his piano down three levels onto the subway platform. Classic vocals and strided chords &mdash; he played so well I swore he was blind.  Oblivious to the heat on that August stage, he was most in touch with his audience &mdash; whom he elevated with his music.</em>
     </p>
     <p class="type">#subway #music</p>
@@ -25,8 +24,7 @@ date = "2016-08-12T12:42:00-00:00"
     background-size:cover; 
     background-color:#333;
     padding: 50vh 10% 10vh;">
-   
-    <p class="type underline">August 12, 2016 &dash; Moment</p>
+   <p class="type underline">August 12, 2016 &dash; Moment</p>
     <p><em>
       A man positions his mouse on the edge of his browser window. He clicks, holds and drags the viewport first left then right. The content of a video game promo micro site responds and adapts to the available space. To the man, this is more delightful than the game itself.</em>
     </p>
@@ -38,8 +36,7 @@ date = "2016-08-12T12:42:00-00:00"
     background-size:cover; 
     background-color:#333;
     padding: 50vh 10% 10vh;">
-   
-    <p class="type underline">August 12, 2016 &dash; Moment</p>
+   <p class="type underline">August 12, 2016 &dash; Moment</p>
     <p><em>
       The local neighborhood bar has a quiet time between six and nine. It is a place that specializes in coffee, beer and seasonal menus. There is just enough of each for a satisfying snack and effective buzz. After the time when the laptop lids close and before the social gatherings start &mdash; there is a sort of twilight*. Often this time is a fugitive ground rife with creative inspiration and meditative work &mdash; of the kind that results in personal reward.</em>
     </p>
