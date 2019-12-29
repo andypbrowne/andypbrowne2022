@@ -697,8 +697,8 @@
 		"oA": 0,
 		"oAP": "/public/images/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -708,8 +708,8 @@
 		"oA": 0,
 		"oAP": "/public/images/favicon-32x32.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -847,7 +847,7 @@
 		},
 	"/public/img/avatar-rad.jpg": {
 		"ft": 16384,
-		"iS": 13953,
+		"iS": 17541,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/img/avatar-rad.jpg",
@@ -1587,6 +1587,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/img/blog/thumb-moments.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/public/img/blog/thumb-podcasts.jpg": {
+		"ft": 16384,
+		"iS": 188731,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/public/img/blog/thumb-podcasts.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2680,7 +2691,7 @@
 		"oAP": "/public/posts/images/57ae6ac37480b42b138b46fc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/57ae8ecc7480b42b138b47d5.jpg": {
@@ -2691,7 +2702,7 @@
 		"oAP": "/public/posts/images/57ae8ecc7480b42b138b47d5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/arc_de_triomphe-thumb.jpg": {
@@ -2900,7 +2911,7 @@
 		"oAP": "/public/posts/images/dead-forest_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/firewatch.jpg": {
@@ -2911,7 +2922,7 @@
 		"oAP": "/public/posts/images/firewatch.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/frottage-golden-gate.jpg": {
@@ -3120,7 +3131,7 @@
 		"oAP": "/public/posts/images/lsp00.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/lsp01.jpg": {
@@ -3230,7 +3241,7 @@
 		"oAP": "/public/posts/images/Poppies_Field_in_Flanders@1x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/Schlieffen_Plan_fr.svg.png": {
@@ -3295,7 +3306,7 @@
 		"oAP": "/public/posts/images/SSAM-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/SSMA_thumb.jpg": {
@@ -3306,7 +3317,7 @@
 		"oAP": "/public/posts/images/SSMA_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/SSMAClub.jpg": {
@@ -3361,7 +3372,7 @@
 		"oAP": "/public/posts/images/tunnel-under-adt.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/view_of_paris_from_the_adt.jpg": {
@@ -3372,7 +3383,7 @@
 		"oAP": "/public/posts/images/view_of_paris_from_the_adt.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/posts/images/ww1-soldiers-in-a-dead-forest.jpg": {
@@ -3593,8 +3604,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3604,8 +3615,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/favicon-32x32.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3660,7 +3671,7 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/public/pres/images/mount-mulanje.jpg": {
+	"/public/pres/images/mount-mulanje.JPG": {
 		"ft": 16384,
 		"iS": 181044,
 		"jF": 0,
@@ -3679,7 +3690,7 @@
 		"oAP": "/public/pres/images/new-jack-city.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/portfolio.JPG": {
@@ -3690,7 +3701,7 @@
 		"oAP": "/public/pres/images/portfolio.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/public/pres/images/retina.jpg": {
@@ -3823,7 +3834,7 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/public/scss/colors.css",
 		"oF": 0,
 		"oS": 0,
@@ -3841,6 +3852,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/public/scss/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/public/scss/style-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/public/scss/style.scss": {
 		"aP": 0,
@@ -7572,6 +7593,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/themes/hugo-coder/static/scss/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/themes/hugo-coder/static/scss/style-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/themes/hugo-coder/static/scss/style.scss": {
 		"aP": 0,

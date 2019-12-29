@@ -7,9 +7,11 @@ $dark-bg-color:#222222;
 $fg-color: #323232;
 $dark-fg-color:#A0A0A0;
 $light-gray: #606060;
+$dark-light-gray:#939393;
 $darker-bg-color: #dcdcdc;
 $darker-fg-color: #222222;
 $link-color: #3366CC; 
+$dark-link-color: #5C97BF;
 
 
 *,
@@ -38,7 +40,7 @@ body {
   }
 }
 p.serif {
-  font-family: "minion-pro-1", "minion-pro-2", serif;
+  font-family: $serif;
 }
 p {
   margin-bottom: 1.8rem;
@@ -104,7 +106,6 @@ article figure {
 figure p, figure figcaption, p.caption {
   color:lighten($fg-color, 20%);
   text-align:center;
-  font-size:smaller;
   margin-top:1.4rem;
   line-height:1.2;
   font-style:italic;
@@ -329,7 +330,7 @@ img {
   width: 100%;
   padding-left: 2.0rem;
   padding-right: 2.0rem;
-  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     display:flex;
     flex-direction:column;
   }
@@ -375,6 +376,10 @@ a.navigation-title {
   font-family: acumin-pro-wide;
   letter-spacing:0.2rem;
   font-weight: 700;
+}
+
+span.view-mode:before {
+  content: "| 👋Internet Traveler";
 }
 
 .content {
@@ -671,7 +676,7 @@ a.navigation-title {
 //  font-size:smaller;
   line-height:1.3;
   margin:2.0rem 0 3.2rem;
-  p {
+  p, ul li {
     font-size:1.6rem;
   }
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
@@ -681,7 +686,7 @@ a.navigation-title {
 @supports (display: grid) {
   .about-details {
     display: grid;
-    grid-template-columns: 2fr 2fr 1fr;
+    grid-template-columns: 1fr 1fr; 
     column-gap:2rem;
     
     @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
@@ -837,15 +842,21 @@ body.rtl {
     background-color: $dark-bg-color;
   }
   span.view-mode:before {
-    content: "Dark Mode";
+    content: "| 😎 We both love dark mode";
+    color: $dark-light-gray;
   }
   h1, h2, h3, h4, h5, h6 {
     color: $dark-fg-color; 
   }
   p a:focus, p a:hover, ul li a:focus, ul li a:hover, ol li a:focus, ol li a:hover {
     border-bottom: 3px solid;
-    color: 
-    $dark-fg-color;
+    color: $dark-fg-color;
+  }
+  p a, ul li a, ol li a {
+    color: $dark-link-color;
+  }
+  p a:hover, ul li a:hover, ol li a:hover {
+    color: $link-color;
   }
   .apb-flex-boxes {
     .info {
@@ -862,10 +873,13 @@ body.rtl {
       opacity: 1; 
       color:$dark-fg-color;
     }
-    .navigation {
-      a:hover, a:active {
-        color: white;
-      }
+  }
+  .navigation {
+    a, a:visited {
+      color: $dark-light-gray;
+    }
+    a:hover, a:active {
+      color: white;
     }
   }
 }

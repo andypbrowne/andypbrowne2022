@@ -19,11 +19,27 @@ For a detailed list of activities see Andy’s [Curriculum Vitae](/cv/)
 
 <div class="about-details">
 <div>
-  <h3>Skills</h3>
-  <p>User Research, Usability Testing, Interaction Design, Prototyping, Workshop Facilitation, Project Management, Web Development, Leadership, and Survival… </p>
+
+  ### Skills
+
+  User Research, Usability Testing, Interaction Design, Prototyping, Workshop Facilitation, Project Management, Web Development, Leadership, and Survival… 
+
+  ### Favorite Tools
+
+  Optimal Workshop, User Zoom, Lookback, Sketch, InVision, Figma, Visual Studio Code, Adobe InDesign, Photoshop, Illustrator, Premiere Pro, Keynote, JIRA, Trello…
+
 </div>
 <div>
-  <h3>Favorite Tools</h3>
-  <p>Optimal Workshop, User Zoom, Lookback, Sketch, InVision, Figma, Visual Studio Code, Adobe InDesign, Photoshop, Illustrator, Premiere Pro, Keynote, JIRA, Trello…</p>
+
+  ### Find Me
+
+  - I prefer to [blog right here](https://andypbrowne/posts/) on my own site  because I believe in owning your own content
+  - I use [Twitter](https://twitter.com/DTAndyB) as my source of news and it is a good place for direct messages
+  - [Linkedin](https://www.linkedin.com/in/andypbrowne) is my preferred channel to receive messages from people I don’t know
+  - I have a public [Instagram account](https://www.instagram.com/andypbrowne/) to stay connected with friends
+  - I use [Telegram](https://telegram.org/) to message with anyone who also has telegram.
+  - I stay active on [GitHub](https://github.com/andypbrowne) because I think someone will look at my profile and be impressed 
+  - I post stuff to [Codepen](https://codepen.io/andypbrowne) because I like to make things on the web in my spare Tim
+
 </div>
 </div>

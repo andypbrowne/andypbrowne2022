@@ -548,7 +548,7 @@ span.view-mode:before {
   display: flex;
   line-height: 1.3;
   margin: 2.0rem 0 3.2rem; }
-  .about-details p {
+  .about-details p, .about-details ul li {
     font-size: 1.6rem; }
   @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     .about-details {
@@ -557,7 +557,7 @@ span.view-mode:before {
 @supports (display: grid) {
   .about-details {
     display: grid;
-    grid-template-columns: 2fr 2fr 1fr;
+    grid-template-columns: 1fr 1fr;
     column-gap: 2rem; }
     @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       .about-details {
