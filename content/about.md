@@ -33,7 +33,7 @@ For a detailed list of activities see Andy’s [Curriculum Vitae](/cv/)
 
   ### Find Me
 
-  - I prefer to [blog right here](https://andypbrowne/posts/) on my own site  because I believe in owning your own content
+  - I prefer to [blog right here](/posts/) on my own site  because I believe in owning your own content
   - I use [Twitter](https://twitter.com/DTAndyB) as my source of news and it is a good place for direct messages
   - [Linkedin](https://www.linkedin.com/in/andypbrowne) is my preferred channel to receive messages from people I don’t know
   - I have a public [Instagram account](https://www.instagram.com/andypbrowne/) to stay connected with friends
