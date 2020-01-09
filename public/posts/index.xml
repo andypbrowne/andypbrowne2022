@@ -6,10 +6,20 @@
     <description>Recent content in Words on andypbrowne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Apr 2019 12:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 12:42:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andypbrowne.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grid Experiments</title>
+      <link>https://andypbrowne.com/posts/grid-experiments/</link>
+      <pubDate>Wed, 08 Jan 2020 12:42:00 +0000</pubDate>
+      
+      <guid>https://andypbrowne.com/posts/grid-experiments/</guid>
+      <description>The new CSS has radical new features that make layout on the web much more capable and efficient to write. There is a bit of a learning curve that comes with CSS grid in particular. One of the best ways to learn is to run little experiments.
+If you are interested in trying one of these yourself the best thing to do is to find a historical example of a print layout like something from the Bauhaus.</description>
+    </item>
     
     <item>
       <title>Always Be Recommending Podcasts</title>

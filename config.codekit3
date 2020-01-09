@@ -1570,6 +1570,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/public/img/blog/thumb-grid-postcard.jpg": {
+		"ft": 16384,
+		"iS": 62638,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/public/img/blog/thumb-grid-postcard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/public/img/blog/thumb-lsp.jpg": {
 		"ft": 16384,
 		"iS": 40858,
@@ -2661,6 +2672,13 @@
 		"oAP": "/public/posts/fontana/index.html",
 		"oF": 0
 		},
+	"/public/posts/grid-experiments/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/public/posts/grid-experiments/index.html",
+		"oF": 0
+		},
 	"/public/posts/images/24619b6.jpg": {
 		"ft": 16384,
 		"iS": 102987,
@@ -2669,7 +2687,7 @@
 		"oAP": "/public/posts/images/24619b6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/24619b6_thumb.jpg": {
@@ -2680,7 +2698,7 @@
 		"oAP": "/public/posts/images/24619b6_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/57ae6ac37480b42b138b46fc.jpg": {
@@ -2691,7 +2709,7 @@
 		"oAP": "/public/posts/images/57ae6ac37480b42b138b46fc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/57ae8ecc7480b42b138b47d5.jpg": {
@@ -2702,7 +2720,7 @@
 		"oAP": "/public/posts/images/57ae8ecc7480b42b138b47d5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/arc_de_triomphe-thumb.jpg": {
@@ -2735,7 +2753,7 @@
 		"oAP": "/public/posts/images/arc_de_triomphe@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/arc_de_triomphe@0,5x.jpg": {
@@ -2955,7 +2973,7 @@
 		"oAP": "/public/posts/images/frottage-golden-gate@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/frottage-golden-gate_thumb.jpg": {
@@ -2986,8 +3004,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy01.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2997,8 +3015,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy02.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3008,8 +3026,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy03.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3019,8 +3037,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy04.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3041,8 +3059,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy06.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3052,8 +3070,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy07.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3063,8 +3081,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy08.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3074,8 +3092,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy09.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3085,8 +3103,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy10.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3096,8 +3114,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy11.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3107,8 +3125,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy12.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3118,8 +3136,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/instastrategy13.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3131,7 +3149,7 @@
 		"oAP": "/public/posts/images/lsp00.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/lsp01.jpg": {
@@ -3153,7 +3171,7 @@
 		"oAP": "/public/posts/images/lsp02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/lsp03.jpg": {
@@ -3164,7 +3182,7 @@
 		"oAP": "/public/posts/images/lsp03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/P1090084.jpg": {
@@ -3175,7 +3193,7 @@
 		"oAP": "/public/posts/images/P1090084.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/P1090084@0,25x.jpg": {
@@ -3186,7 +3204,7 @@
 		"oAP": "/public/posts/images/P1090084@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/P1090084@0,5x.jpg": {
@@ -3208,7 +3226,7 @@
 		"oAP": "/public/posts/images/Poppies_Field_in_Flanders.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/Poppies_Field_in_Flanders@0,25x.jpg": {
@@ -3219,7 +3237,7 @@
 		"oAP": "/public/posts/images/Poppies_Field_in_Flanders@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/Poppies_Field_in_Flanders@0,5x.jpg": {
@@ -3230,7 +3248,7 @@
 		"oAP": "/public/posts/images/Poppies_Field_in_Flanders@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/Poppies_Field_in_Flanders@1x.jpg": {
@@ -3241,7 +3259,7 @@
 		"oAP": "/public/posts/images/Poppies_Field_in_Flanders@1x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/Schlieffen_Plan_fr.svg.png": {
@@ -3250,8 +3268,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/Schlieffen_Plan_fr.svg.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3261,8 +3279,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/Schlieffen_Plan_fr.svg@0,25x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3272,8 +3290,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/Schlieffen_Plan_fr.svg@0,5x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3283,8 +3301,8 @@
 		"oA": 0,
 		"oAP": "/public/posts/images/Schlieffen_Plan_fr.svg@0,75x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3301,6 +3319,17 @@
 	"/public/posts/images/SSAM-02.jpeg": {
 		"ft": 16384,
 		"iS": 156799,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/public/posts/images/SSAM-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/public/posts/images/SSAM-02.jpg": {
+		"ft": 16384,
+		"iS": 152075,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/posts/images/SSAM-02.jpg",
@@ -3339,7 +3368,7 @@
 		"oAP": "/public/posts/images/SSMAClub@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/SSMAClub@0,5x.jpg": {
@@ -3361,7 +3390,7 @@
 		"oAP": "/public/posts/images/thumb-moments.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/tunnel-under-adt.jpg": {
@@ -3372,7 +3401,7 @@
 		"oAP": "/public/posts/images/tunnel-under-adt.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/view_of_paris_from_the_adt.jpg": {
@@ -3405,7 +3434,7 @@
 		"oAP": "/public/posts/images/ww1-soldiers-in-a-dead-forest@0,25x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/images/ww1-soldiers-in-a-dead-forest@0,5x.jpg": {
@@ -3416,7 +3445,7 @@
 		"oAP": "/public/posts/images/ww1-soldiers-in-a-dead-forest@0,5x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/posts/index.html": {
@@ -3529,7 +3558,7 @@
 		"oAP": "/public/pres/images/Amplitude_jpmorgan.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/bell-centennial.jpg": {
@@ -3540,7 +3569,7 @@
 		"oAP": "/public/pres/images/bell-centennial.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/cheddargorge.jpg": {
@@ -3562,7 +3591,7 @@
 		"oAP": "/public/pres/images/Christian-wchwartz.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/cornerstone-freedom-tower-lifted-2004.jpg": {
@@ -3573,7 +3602,7 @@
 		"oAP": "/public/pres/images/cornerstone-freedom-tower-lifted-2004.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/cornerstone10.jpg": {
@@ -3584,7 +3613,7 @@
 		"oAP": "/public/pres/images/cornerstone10.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/desertlandscape.jpg": {
@@ -3595,7 +3624,7 @@
 		"oAP": "/public/pres/images/desertlandscape.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/favicon-16x16.png": {
@@ -3604,8 +3633,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3615,8 +3644,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/favicon-32x32.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3635,7 +3664,7 @@
 		"oAP": "/public/pres/images/fundamentals.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/hoefler-and-frere-jones.jpg": {
@@ -3646,7 +3675,7 @@
 		"oAP": "/public/pres/images/hoefler-and-frere-jones.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/MatthewCarter.jpg": {
@@ -3666,8 +3695,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/monogram_apb_bw.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3690,7 +3719,7 @@
 		"oAP": "/public/pres/images/new-jack-city.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/portfolio.JPG": {
@@ -3701,7 +3730,7 @@
 		"oAP": "/public/pres/images/portfolio.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/retina.jpg": {
@@ -3712,7 +3741,7 @@
 		"oAP": "/public/pres/images/retina.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/sva-studio.jpg": {
@@ -3723,7 +3752,7 @@
 		"oAP": "/public/pres/images/sva-studio.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/ted-stage.jpg": {
@@ -3734,7 +3763,7 @@
 		"oAP": "/public/pres/images/ted-stage.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/public/pres/images/thumb-designservices.png": {
@@ -3743,8 +3772,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/thumb-designservices.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3765,8 +3794,8 @@
 		"oA": 0,
 		"oAP": "/public/pres/images/thumb-mindthegap.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4837,6 +4866,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/static/img/blog/SSMAClub@0,5x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/static/img/blog/thumb-grid-postcard.jpg": {
+		"ft": 16384,
+		"iS": 62638,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/static/img/blog/thumb-grid-postcard.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
