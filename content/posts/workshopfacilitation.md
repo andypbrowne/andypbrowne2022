@@ -2,7 +2,7 @@
 draft = false
 type = ""
 description = "LEGOs can put corporate colleagues on the therapy couch"
-images = ["img/thumb-lsp.jpg"]
+images = ["images/thumb-lsp.jpg"]
 series = []
 tags = []
 title = "Facilitating LEGO® SERIOUSPLAY®"
