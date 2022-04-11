@@ -1,6 +1,7 @@
 +++
 type = ""
 description = "If you gotta sticker…"
+images = ["images/thumb-stickers.jpg"]
 title = "Laptop Stickers"
 date = "2022-01-17T12:42:00-00:00"
 draft = "false"
@@ -11,7 +12,7 @@ draft = "false"
 {{< figure src="img/blog/Personal-2018-Present.jpg" caption="the top cover of a laptop covered with various stickers" >}}
 
 
-In no particular order here are some descriptions of the stickers on my laptop. I enjoy the aesthetics of the stickers – but what I enjoy mostly is the reminder of what they represent. Here is some of that background listed from left to right and top-to-bottom. Show us your stickers too and as the great designer Aaron Draplin would say &ldquo;Don&rsquo;t be precious about your stickers, if you have a sticker, stick it!&rdquo;
+<span class="dropcap">I</span>n no particular order here are some descriptions of the stickers on my laptop. I enjoy the aesthetics of the stickers – but what I enjoy mostly is the reminder of what they represent. Here is some of that background listed from left to right and top-to-bottom. Show us your stickers too and as the great designer Aaron Draplin would say &ldquo;Don&rsquo;t be precious about your stickers, if you have a sticker, stick it!&rdquo;
 
 ### Heatonist
 
